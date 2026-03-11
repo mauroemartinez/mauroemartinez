@@ -74,6 +74,7 @@ I am an Argentine **Data Analyst** and **B.A. in International Trade** with Poli
 ## 📫 Let's get in Touch
 * 💼 Linkedin: [/in/mauroemartinez](https://www.linkedin.com/in/mauroemartinez/)
 * 📧 Email: [martinezmauroezequiel@gmail.com](mailto:martinezmauroezequiel@gmail.com)
+* 📱 Mobile/WhatsApp: [+54 9 11 5990-9647](https://wa.me/5491159909647)
 * 📍 Buenos Aires, Argentina (Open to Worldwide opportunities, oncluding relocation since I have Argentinian & EU Passports ready)
 
 ---
