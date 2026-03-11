@@ -74,7 +74,7 @@ I am a **Data Analyst** and **B.A. in International Trade** with Polish citizens
 ## 📫 Get in Touch
 * 💼 Linkedin: [/in/mauroemartinez](https://www.linkedin.com/in/mauroemartinez/)
 * 📧 Email: [martinezmauroezequiel@gmail.com](mailto:martinezmauroezequiel@gmail.com)
-* 📍 Buenos Aires, Argentina (Open to Worldwide opportunities, I have Argentinian & EU Passports)
+* 📍 Buenos Aires, Argentina (Open to Worldwide opportunities, oncluding relocation since I have Argentinian & EU Passports ready)
 
 ---
 <p align="center">
