@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=45&pause=1500&color=36BCF7&center=true&vCenter=true&width=1200&height=200&lines=%F0%9F%93%8A+Analytics+Engineer+%7C+Data+Analyst+%7C+BI;B.A.+in+International+Trade" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=40&pause=1500&color=36BCF7&center=true&vCenter=true&width=1000&height=100&lines=%F0%9F%93%8A+Analytics+Engineer+%7C+Data+Analyst+%7C+BI;%F0%9F%9A%A2+B.A.+in+International+Trade" alt="Typing SVG" />
   </a>
 </p>
 <p align="left">
@@ -12,12 +12,12 @@
 ---
 
 ## 👤 About Me
-I am a **Data Analyst** and **B.A. in International Trade** with Polish citizenship. My edge lies at the intersection of global business vision and the technical power of the **Modern Data Stack**.
+I am an Argentine **Data Analyst** and **B.A. in International Trade** with Polish citizenship. My edge lies at the intersection of global business vision and the technical power of the **Modern Data Stack**.
 
-* **Advanced English:** Extensive experience leading negotiations and collaborating with multicultural teams (USA, China, India, Malaysia).
+* **Advanced English:** Extensive experience leading international negotiations and collaborating with multicultural teams (USA, China, India, Malaysia, Brazil).
 * **Native Spanish:** Born and rose in Argentina.
 * **Basic Chinese:** Applied to technical documentation interpretation and building commercial trust.
-* **EU Citizen:** Focused on the European market (Remote/Relocation).
+* **EU Citizen:** Open to Remote/Relocation opportunities.
 
 ---
 
@@ -57,26 +57,26 @@ I am a **Data Analyst** and **B.A. in International Trade** with Polish citizens
 
 ## 🛠️ Tech Stack
 
-| Layer | Tools |
+| Category | Tools |
 | :--- | :--- |
-| **Ingestion & ETL** | Python (Pandas, Polars, Playwright), SQL, Microsoft Fabric |
-| **BI & Viz** | Microsoft Power BI, DAX, Microsoft Excel, Seaborn, Matplotlib |
-| **Storage** | DuckDB, SQL Server |
-| **Automation** | Python, Power Query, GitHub Actions, Selenium |
+| **Ingestion & ETL** | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Polars](https://img.shields.io/badge/Polars-%23CD792C.svg?style=for-the-badge&logo=polars&logoColor=white) ![Power Query](https://img.shields.io/badge/Power_Query-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) |
+| **BI & Viz** | ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![DAX](https://img.shields.io/badge/DAX-%230176D3.svg?style=for-the-badge&logo=salesforce&logoColor=white) ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-4479A1?style=for-the-badge&logo=python&logoColor=white) |
+| **Storage & Data Ops** | ![Microsoft Fabric](https://img.shields.io/badge/Microsoft_Fabric-0078D4?style=for-the-badge&logo=microsoft&logoColor=white) ![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black) ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) |
+| **Automation** | ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white) ![Selenium](https://img.shields.io/badge/-Selenium-%43B02A?style=for-the-badge&logo=Selenium&logoColor=white) |
 
 ---
 
-## 📊 My GitHub Contributions
+## 📈 My GitHub Contributions
 [![Mauro's GitHub activity](https://github-readme-activity-graph.vercel.app/graph?username=mauroemartinez&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true)](https://github.com/mauroemartinez)
 
 ---
 
-## 📫 Get in Touch
+## 📫 Let's get in Touch
 * 💼 Linkedin: [/in/mauroemartinez](https://www.linkedin.com/in/mauroemartinez/)
 * 📧 Email: [martinezmauroezequiel@gmail.com](mailto:martinezmauroezequiel@gmail.com)
 * 📍 Buenos Aires, Argentina (Open to Worldwide opportunities, oncluding relocation since I have Argentinian & EU Passports ready)
 
 ---
 <p align="center">
-  <i>"I don't just analyze data; I build the pipelines that make it actionable."</i>
+  <i>"Data Pipelines → Actionable Insights → Strategic Impact. Simple & Scalable"</i>
 </p>
