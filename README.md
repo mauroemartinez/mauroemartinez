@@ -1,7 +1,13 @@
 # Hi there, I'm Mauro Martinez! 👋
 
-### 📊 Analytics Engineer | Data Analyst | B.A. in International Trade
-**Transforming complex data ecosystems into strategic assets for global decision-making.**
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=45&pause=1500&color=36BCF7&center=true&vCenter=true&width=1200&height=200&lines=%F0%9F%93%8A+Analytics+Engineer+%7C+Data+Analyst+%7C+BI;B.A.+in+International+Trade" alt="Typing SVG" />
+  </a>
+</p>
+<p align="left">
+  <strong>International Business Expertise & Data Analytics Engineering: Transforming complex multi-sector ecosystems into data-driven competitive advantages.</strong>
+</p>
 
 ---
 
