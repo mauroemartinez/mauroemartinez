@@ -12,10 +12,10 @@
 ---
 
 ## 👤 About Me
-I am an Argentine **Data Analyst** and **B.A. in International Trade** with Polish citizenship. My edge lies at the intersection of global business vision and the technical power of the **Modern Data Stack**.
+I am an Argentine **📈Data Analyst** and **🎓B.A. in International Trade** with Polish citizenship. My edge lies at the intersection of global business vision and the technical power of the **Modern Data Stack**.
 
 * **Advanced English:** Extensive experience leading international negotiations and collaborating with multicultural teams (USA, China, India, Malaysia, Brazil).
-* **Native Spanish:** Born and rose in Argentina.
+* **Native Spanish:** Born and raised in Argentina.
 * **Basic Chinese:** Applied to technical documentation interpretation and building commercial trust.
 * **EU Citizen:** Open to Remote/Relocation opportunities.
 
@@ -37,7 +37,7 @@ I am an Argentine **Data Analyst** and **B.A. in International Trade** with Poli
 * **Stack:** `Python`, `Selenium`, `Matplotlib`, `seaborn`, `email.mime`, `.env`.
 * **Roadmap:** Migration to **Polars + DuckDB**.
 
-### [📊 Latam Market Intelligence & Imports Analytics](https://github.com/TU_USUARIO/TU_REPO)
+### [📊 Latam Market Intelligence & Imports Analytics](https://github.com/mauroemartinez/Latam_Imports_Market_Intelligence)
 *Potential LATAM importers and market share by country KPIs visualization.*
 
 <p align="center">
@@ -72,10 +72,12 @@ I am an Argentine **Data Analyst** and **B.A. in International Trade** with Poli
 ---
 
 ## 📫 Let's get in Touch
-* 💼 Linkedin: [/in/mauroemartinez](https://www.linkedin.com/in/mauroemartinez/)
-* 📧 Email: [martinezmauroezequiel@gmail.com](mailto:martinezmauroezequiel@gmail.com)
-* 📱 Mobile/WhatsApp: [+54 9 11 5990-9647](https://wa.me/5491159909647)
-* 📍 Buenos Aires, Argentina (Open to Worldwide opportunities, oncluding relocation since I have Argentinian & EU Passports ready)
+* 💼 **LinkedIn:** [/in/mauroemartinez](https://www.linkedin.com/in/mauroemartinez/)
+* 📧 **Email:** [martinezmauroezequiel@gmail.com](mailto:martinezmauroezequiel@gmail.com)
+* 📱 **WhatsApp:** [+54 9 11 5990-9647](https://wa.me/5491159909647)
+* 🌍 **Availability:** Open to 100% Remote (Worldwide) or Relocation.
+* ⚖ **Legal:** Argentine & EU Passport Ready (No sponsorship required for EU-based roles).
+* 📍 **Current Location:** Buenos Aires, Argentina.
 
 ---
 <p align="center">
