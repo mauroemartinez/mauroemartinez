@@ -116,6 +116,11 @@ I am an Argentine **📈Data Analyst** and **🎓B.A. in International Trade** w
 * 📍 **Current Location:** Buenos Aires, Argentina.
 
 ---
+
 <p align="center">
   <i>"Data Pipelines → Actionable Insights → Strategic Impact. Simple & Scalable"</i>
 </p>
+
+---
+
+![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fmauroemartinez&label=%F0%9F%8D%AA+Cookies+delivered+to+visitors&color=%23084298&message=&style=plastic&tz=Etc%2FGMT-3)
