@@ -55,9 +55,8 @@ I am an Argentine **📈Data Analyst** and **🎓B.A. in International Trade** w
 ### [🤖 RPA Exchange Rate Scraping + Mailing](https://github.com/mauroemartinez/RPA-exchange-rate-scrapping-automatic-mailing)
 *An end-to-end pipeline that extracts Argentine macroeconomic data (Exchange rates, BCRA/FED rates, Inflation, and Country Risk), processes time series, and automates financial reporting via email.*
 * **Stack:** `Python`, `Pandas`, `Selenium`, `Matplotlib`, `Seaborn`, `email.mime`, `APIs`.
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mauroemartinez/RPA-exchange-rate-scrapping-automatic-mailing/main/Images/Gr%C3%A1ficos%20Tipos%20de%20Cambios%20y%20Riesgo%20Pa%C3%ADs.jpg" alt="RPA Output Preview" width=85%>
+  <img src="https://raw.githubusercontent.com/mauroemartinez/RPA-exchange-rate-scrapping-automatic-mailing/main/Previews/Gr%C3%A1ficos%20Tipos%20de%20Cambios%20y%20Riesgo%20Pa%C3%ADs.jpg" alt="RPA Output Preview" width=85%>
 </p>
 
 ### [📊 LATAM Market Intelligence & Import Analytics](https://github.com/mauroemartinez/Latam_Imports_Market_Intelligence)
