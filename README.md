@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=40&pause=1500&color=36BCF7&center=true&vCenter=true&width=1000&height=100&lines=%F0%9F%93%8A+Analytics+Engineer+%7C+Data+Analyst+%7C+BI;%F0%9F%9A%A2+B.A.+in+International+Trade" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=40&pause=1500&color=36BCF7&center=true&vCenter=true&width=1000&height=100&lines=%F0%9F%A4%96+Analytics+%26+AI+Automation+Eng.;%F0%9F%9A%A2+B.A.+in+International+Trade" alt="Typing SVG" />
   </a>
 </p>
 <p align="left">
@@ -12,7 +12,7 @@
 ---
 
 ## 👤 About Me
-I am an Argentine **📈Data Analyst** and **🎓B.A. in International Trade** with Polish citizenship. My edge lies at the intersection of global business vision and the technical power of the **Modern Data Stack**.
+I am an Argentine **📈Analytics and AI Automation Engineer** and **🎓B.A. in International Trade** with Polish citizenship. My edge lies at the intersection of global business vision and the technical power of the **Modern Data Stack**.
 
 * **Advanced English:** Extensive experience leading international negotiations and collaborating with multicultural teams (USA, China, India, Malaysia, Brazil).
 * **Native Spanish:** Born and raised in Argentina.
@@ -34,10 +34,11 @@ I am an Argentine **📈Data Analyst** and **🎓B.A. in International Trade** w
 
 | Category | Tools |
 | :--- | :--- |
-| **Ingestion & ETL** | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Polars](https://img.shields.io/badge/Polars-%23CD792C.svg?style=for-the-badge&logo=polars&logoColor=white) ![Power Query](https://img.shields.io/badge/Power_Query-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) |
-| **BI & Viz** | ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![DAX](https://img.shields.io/badge/DAX-%230176D3.svg?style=for-the-badge&logo=salesforce&logoColor=white) ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-4479A1?style=for-the-badge&logo=python&logoColor=white) |
-| **Storage & Data Ops** | ![Microsoft Fabric](https://img.shields.io/badge/Microsoft_Fabric-0078D4?style=for-the-badge&logo=microsoft&logoColor=white) ![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black) ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) |
-| **Automation** | ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white) ![Selenium](https://img.shields.io/badge/-Selenium-%43B02A?style=for-the-badge&logo=Selenium&logoColor=white) |
+| **Ingestion & ETL** | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white) ![Polars](https://img.shields.io/badge/Polars-%23CD792C.svg?style=for-the-badge&logo=polars&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Power Query](https://img.shields.io/badge/Power_Query-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) |
+| **BI & Viz** | ![Seaborn](https://img.shields.io/badge/Seaborn-4479A1?style=for-the-badge&logo=python&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=matplotlib&logoColor=black) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Looker](https://img.shields.io/badge/Looker-3F51B5?style=for-the-badge&logo=looker&logoColor=white) ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white) | ![DAX](https://img.shields.io/badge/DAX-%230176D3.svg?style=for-the-badge&logo=salesforce&logoColor=white) 
+| **Storage & Data Ops** | ![Microsoft Fabric](https://img.shields.io/badge/Microsoft_Fabric-0078D4?style=for-the-badge&logo=microsoft&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) ![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black) |
+| **Automation** | ![n8n](https://img.shields.io/badge/n8n-E92063?style=for-the-badge&logo=n8n&logoColor=white) ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white) ![Selenium](https://img.shields.io/badge/-Selenium-%43B02A?style=for-the-badge&logo=Selenium&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white) |
+| **AI APIs** | ![Anthropic](https://img.shields.io/badge/Claude_API-CC9B7A?style=for-the-badge&logo=anthropic&logoColor=white) ![OpenAI](https://img.shields.io/badge/ChatGPT_API-412991?style=for-the-badge&logo=openai&logoColor=white) ![Google Gemini](https://img.shields.io/badge/Gemini_API-8E75C2?style=for-the-badge&logo=googlegemini&logoColor=white) |
 
 ---
 
@@ -53,8 +54,8 @@ I am an Argentine **📈Data Analyst** and **🎓B.A. in International Trade** w
 </p>
 
 ### [🤖 RPA Exchange Rate Scraping + Mailing](https://github.com/mauroemartinez/RPA-exchange-rate-scrapping-automatic-mailing)
-*An end-to-end pipeline that extracts Argentine macroeconomic data (Exchange rates, BCRA/FED rates, Inflation, and Country Risk), processes time series, and automates financial reporting via email.*
-* **Stack:** `Python`, `Pandas`, `Selenium`, `Matplotlib`, `Seaborn`, `email.mime`, `APIs`.
+*An end-to-end pipeline that extracts Argentine macroeconomic data (Exchange rates, BTC/USD, BCRA/FED rates, Inflation, and Country Risk), processes time series, and automates financial reporting via email with visualizations and AI-Powered summary.*
+* **Stack:** `Python`, `Pandas`, `Playwright`, `Matplotlib`, `Seaborn`, `Pydantic`, `Supabase`, `email.mime`, `APIs`, `Selenium`.
 <p align="center">
   <img src="https://raw.githubusercontent.com/mauroemartinez/RPA-exchange-rate-scrapping-automatic-mailing/main/Previews/Gr%C3%A1ficos%20Tipos%20de%20Cambios%20y%20Riesgo%20Pa%C3%ADs.jpg" alt="RPA Output Preview" width=85%>
 </p>
@@ -81,14 +82,6 @@ I am an Argentine **📈Data Analyst** and **🎓B.A. in International Trade** w
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/mauroemartinez/Sports_Footwear_Sales_and_Consumer_Behavior_Analysis-Technical_Challenge/main/Other%20Files/Preview.gif" alt="Footwear Sales Preview" width=85%>
-</p>
-
-### [📉 Customer Churn & Behavior Analysis](https://github.com/mauroemartinez/Customer_Churn_and_Behavior_Analysis-Technical-Challenge)
-*Developed as a Technical Challenge for a BI Analyst role. Focused on identifying critical churn windows and optimizing marketing ROI through cohort analysis.*
-* **Stack:** `Power BI`, `DAX`, `Power Query`, `Data Modeling`.
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mauroemartinez/Customer_Churn_and_Behavior_Analysis-Technical-Challenge/main/Pictures/Preview.gif" alt="Churn Analysis Preview" width=85%>
 </p>
 
 ### [🏮 HSK Chinese Proficiency Vocabulary Analysis](https://github.com/mauroemartinez/HSK_Vocabulary)
