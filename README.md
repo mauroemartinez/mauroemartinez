@@ -102,7 +102,7 @@ I am an Argentine **📈Analytics and AI Automation Engineer** and **🎓B.A. in
 ## 📫 Let's get in Touch
 * 💼 **LinkedIn:** [/in/mauroemartinez](https://www.linkedin.com/in/mauroemartinez/)
 * 📧 **Email:** [martinezmauroezequiel@gmail.com](mailto:martinezmauroezequiel@gmail.com)
-* 📱 **WhatsApp:** [+54 9 11 5990-9647](https://wa.me/5491159909647?text=Hola%20Mauro%2C%20%C2%BFc%C3%B3mo%20est%C3%A1s%3F%20Vi%20tu%20perfil%20de%20Data%20Analyst%20%2B%20Comex%20en%20Gmail%20y%20me%20gustar%C3%ADa%20contactarte.)
+* 📱 **WhatsApp:** [+54 9 11 5990-9647](https://wa.me/5491159909647?text=Hola%20Mauro%2C%20%C2%BFc%C3%B3mo%20est%C3%A1s%3F%20Vi%20tu%20perfil%20de%20+IA+%2B+Comex+en+tu+%20GitHub%20y%20me%20gustar%C3%ADa%20contactarte.)
 * 🌍 **Availability:** Open to 100% Remote (Worldwide) or Relocation.
 * ⚖ **Legal:** Argentine & EU Passport Ready (No sponsorship required for EU-based roles).
 * 📍 **Current Location:** Buenos Aires, Argentina.
