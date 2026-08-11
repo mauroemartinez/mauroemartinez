@@ -6,13 +6,13 @@
   </a>
 </p>
 <p align="left">
-  <strong>International Business Expertise & Data Analytics Engineering: Transforming complex multi-sector ecosystems into data-driven competitive advantages.</strong>
+  <strong>Applied Data Analytics and customized Agentic Automation for Global Businesses: Transforming complex multi-sector ecosystems into data-driven competitive advantages.</strong>
 </p>
 
 ---
 
 ## 👤 About Me
-I am an Argentine **📈Analytics and AI Automation Engineer** and **🎓B.A. in International Trade** with Polish citizenship. My edge lies at the intersection of global business vision and the technical power of the **Modern Data Stack**.
+I am an Argentine **📈Analytics and AI Automation Engineer** and **🎓B.A. in International Trade** with Polish citizenship. My edge lies at the intersection of global business vision and the technical power of the **Modern Data and Automation Stack**.
 
 * **Advanced English:** Extensive experience leading international negotiations and collaborating with multicultural teams (USA, China, India, Malaysia, Brazil).
 * **Native Spanish:** Born and raised in Argentina.
