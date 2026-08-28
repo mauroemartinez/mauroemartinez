@@ -22,11 +22,13 @@ I am an Argentine **📈Analytics and AI Automation Engineer** and **🎓B.A. in
 ---
 
 ## 💪 Key Achievements & Impact
-* **Self-Service Analytics:** Reduced operational workload for global teams by deploying automated BI solutions (100% English-led role).
-* **Supply Chain Optimization:** Identified critical bottlenecks in international logistics through advanced data merging and visualization.
-* **Department Foundations:** Built the Analytics unit from scratch for an Int. Trade consultancy, delivering innovative client-facing services, as well as internal services to HR, Logistics, Sales and Finance.
-* **Process Automation:** Eliminated 100% of errors in customs declarations by replacing manual workflows with `Power Query`.
-* **Cost Efficiency:** Achieved a **50% reduction in FOB costs** for a key product line through data-driven competitor benchmarking and supplier development.
+- **Multi-Agent AI Sourcing System:** Designed and deployed a system of 10+ AI agents that finds and negotiates with Asian suppliers, classifies products via RAG, and returns a priced, interactive landed-cost quotation deployed online, backed by a web app that tracks costs and negotiation progress live, targeting a lead-to-quotation cycle under 72 hours.
+- **Macro Data Automation:** Built an end-to-end `Python` + RPA pipeline (`Playwright`, `Pandas`, `Supabase`) that extracts macroeconomic data from multiple portals, calculates historical gaps and variations, and distributes AI-generated summaries and visualizations via email.
+- **Self-Service Analytics for Microsoft:** Reduced operational workload for Microsoft's global sales team by deploying a self-service `Power BI` solution, eliminating manual email-based queries (100% English-led role).
+- **Process Automation:** Eliminated 100% of manual errors in customs declarations by replacing legacy workflows with an automated `Power Query` ETL pipeline, cutting task time by 90%.
+- **Cost Efficiency:** Achieved a 50% reduction in FOB costs for a key product line through data-driven competitor benchmarking and supplier development.
+- **Supply Chain Optimization:** Identified critical bottlenecks in international logistics by merging multiple data sources and visualizing insights with `Power BI`, enabling real-time decision-making.
+- **Department Foundations:** Built the Analytics unit from scratch for an international trade consultancy, delivering client-facing services plus cross-functional support to Finance, C-Level, HR, International Trade, Logistics, and Sales.
 
 ---
 
