@@ -56,10 +56,16 @@ I am an Argentine **📈Analytics and AI Automation Engineer** and **🎓B.A. in
 </p>
 
 ### [🤖 RPA Exchange Rate Scraping + Mailing](https://github.com/mauroemartinez/RPA-exchange-rate-scrapping-automatic-mailing)
-*An end-to-end pipeline that extracts Argentine macroeconomic data (Exchange rates, BTC/USD, BCRA/FED rates, Inflation, and Country Risk), processes time series, and automates financial reporting via email with visualizations and AI-Powered summary.*
-* **Stack:** `Python`, `Pandas`, `Playwright`, `Matplotlib`, `Seaborn`, `Pydantic`, `Supabase`, `email.mime`, `APIs`, `Selenium`.
+*An end-to-end pipeline, scheduled on GitHub Actions, that extracts Argentine macroeconomic data (exchange rates, country risk, BCRA/FED rates, inflation, monetary aggregates, public debt in USD and BTC/USD), stores it in Supabase, and delivers a daily email report and executive PowerPoint deck with charts and AI-written commentary.*
+* **Stack:** `Python`, `Pandas`, `Playwright`, `httpx`, `Matplotlib`, `Seaborn`, `Pydantic`, `Supabase`, `Gemini API`, `python-pptx`, `GitHub Actions`, `pytest`.
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mauroemartinez/RPA-exchange-rate-scrapping-automatic-mailing/main/Previews/Gr%C3%A1ficos%20Tipos%20de%20Cambios%20y%20Riesgo%20Pa%C3%ADs.jpg" alt="RPA Output Preview" width=85%>
+  <a href="https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2Fmauroemartinez%2FRPA-exchange-rate-scrapping-automatic-mailing%2Freporte-ejecutivo%2FReporte%2520Ejecutivo.pptx">
+    <img src="https://raw.githubusercontent.com/mauroemartinez/RPA-exchange-rate-scrapping-automatic-mailing/main/Assets/Presentacion.jpg" alt="Daily executive deck" width=85%>
+  </a>
+</p>
+<p align="center">
+  <i>Daily executive deck, built and published automatically by the pipeline.</i><br>
+  <a href="https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2Fmauroemartinez%2FRPA-exchange-rate-scrapping-automatic-mailing%2Freporte-ejecutivo%2FReporte%2520Ejecutivo.pptx"><b>▶️ View today's deck online</b></a>
 </p>
 
 ### [📊 LATAM Market Intelligence & Import Analytics](https://github.com/mauroemartinez/Latam_Imports_Market_Intelligence)
