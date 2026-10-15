@@ -23,7 +23,7 @@ I am an Argentine **📈Analytics and AI Automation Engineer** and **🎓B.A. in
 
 ## 💪 Key Achievements & Impact
 - **Multi-Agent AI Sourcing System:** Designed and deployed a system of 10+ AI agents that finds and negotiates with Asian suppliers, classifies products via RAG, and returns a priced, interactive landed-cost quotation deployed online, backed by a web app that tracks costs and negotiation progress live, targeting a lead-to-quotation cycle under 72 hours.
-- **Macro Data Automation:** Built an end-to-end `Python` + RPA pipeline (`Playwright`, `Pandas`, `Supabase`) that extracts macroeconomic data from multiple portals, calculates historical gaps and variations, and distributes AI-generated summaries and visualizations via email.
+- **Macro Data Automation:** Built an end-to-end `Python` + RPA pipeline (`Playwright`, `Pandas`, `Supabase`) that extracts macroeconomic data from multiple portals, calculates historical gaps and variations, and distributes AI-generated summaries and visualizations via email and delivers an AI-commented report by mail and PowerPoint, triggered from Cloudflare and run on GitHub Actions for free.
 - **Self-Service Analytics for Microsoft:** Reduced operational workload for Microsoft's global sales team by deploying a self-service `Power BI` solution, eliminating manual email-based queries (100% English-led role).
 - **Process Automation:** Eliminated 100% of manual errors in customs declarations by replacing legacy workflows with an automated `Power Query` ETL pipeline, cutting task time by 90%.
 - **Cost Efficiency:** Achieved a 50% reduction in FOB costs for a key product line through data-driven competitor benchmarking and supplier development.
@@ -37,9 +37,9 @@ I am an Argentine **📈Analytics and AI Automation Engineer** and **🎓B.A. in
 | Category | Tools |
 | :--- | :--- |
 | **Ingestion & ETL** | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white) ![Polars](https://img.shields.io/badge/Polars-%23CD792C.svg?style=for-the-badge&logo=polars&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Power Query](https://img.shields.io/badge/Power_Query-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) |
-| **BI & Viz** | ![Seaborn](https://img.shields.io/badge/Seaborn-4479A1?style=for-the-badge&logo=python&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=matplotlib&logoColor=black) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Looker](https://img.shields.io/badge/Looker-3F51B5?style=for-the-badge&logo=looker&logoColor=white) ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white) | ![DAX](https://img.shields.io/badge/DAX-%230176D3.svg?style=for-the-badge&logo=salesforce&logoColor=white) 
+| **BI & Viz** | ![Seaborn](https://img.shields.io/badge/Seaborn-4479A1?style=for-the-badge&logo=python&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=matplotlib&logoColor=black) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Looker](https://img.shields.io/badge/Looker-3F51B5?style=for-the-badge&logo=looker&logoColor=white) ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white) ![DAX](https://img.shields.io/badge/DAX-%230176D3.svg?style=for-the-badge&logo=salesforce&logoColor=white) |
 | **Storage & Data Ops** | ![Microsoft Fabric](https://img.shields.io/badge/Microsoft_Fabric-0078D4?style=for-the-badge&logo=microsoft&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) ![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black) |
-| **Automation** | ![n8n](https://img.shields.io/badge/n8n-E92063?style=for-the-badge&logo=n8n&logoColor=white) ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white) ![Selenium](https://img.shields.io/badge/-Selenium-%43B02A?style=for-the-badge&logo=Selenium&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white) |
+| **Automation** | ![n8n](https://img.shields.io/badge/n8n-E92063?style=for-the-badge&logo=n8n&logoColor=white) ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white) ![Selenium](https://img.shields.io/badge/-Selenium-%43B02A?style=for-the-badge&logo=Selenium&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white) | ![Cloudflare Workers](https://img.shields.io/badge/Cloudflare_Workers-F38020?style=for-the-badge&logo=cloudflareworkers&logoColor=white)
 | **AI APIs** | ![Anthropic](https://img.shields.io/badge/Claude_API-CC9B7A?style=for-the-badge&logo=anthropic&logoColor=white) ![OpenAI](https://img.shields.io/badge/ChatGPT_API-412991?style=for-the-badge&logo=openai&logoColor=white) ![Google Gemini](https://img.shields.io/badge/Gemini_API-8E75C2?style=for-the-badge&logo=googlegemini&logoColor=white) |
 
 ---
@@ -56,11 +56,11 @@ I am an Argentine **📈Analytics and AI Automation Engineer** and **🎓B.A. in
 </p>
 
 ### [🤖 RPA Exchange Rate Scraping + Mailing](https://github.com/mauroemartinez/RPA-exchange-rate-scrapping-automatic-mailing)
-*An end-to-end pipeline, scheduled on GitHub Actions, that extracts Argentine macroeconomic data (exchange rates, country risk, BCRA/FED rates, inflation, monetary aggregates, public debt in USD and BTC/USD), stores it in Supabase, and delivers a daily email report and executive PowerPoint deck with charts and AI-written commentary.*
-* **Stack:** `Python`, `Pandas`, `Playwright`, `httpx`, `Matplotlib`, `Seaborn`, `Pydantic`, `Supabase`, `Gemini API`, `python-pptx`, `GitHub Actions`, `pytest`.
+*Every business day at 16:00 a Cloudflare Worker fires a GitHub Actions run that scrapes Argentine FX rates, country risk, BCRA and FED rates, inflation, monetary aggregates and public debt, stores them in Supabase, asks Gemini for a structured commentary, and mails a seven-chart HTML report plus a nine-slide executive deck to a subscriber list. 260+ offline tests, zero infrastructure cost.*
+* **Stack:** `Python`, `Pandas`, `Playwright`, `httpx`, `Pydantic`, `Supabase`, `Gemini API`, `Matplotlib`, `Seaborn`, `python-pptx`, `Cloudflare Workers`, `GitHub Actions`, `pytest`.*
 <p align="center">
   <a href="https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2Fmauroemartinez%2FRPA-exchange-rate-scrapping-automatic-mailing%2Freporte-ejecutivo%2FReporte%2520Ejecutivo.pptx">
-    <img src="https://raw.githubusercontent.com/mauroemartinez/RPA-exchange-rate-scrapping-automatic-mailing/main/Assets/Presentacion.jpg" alt="Daily executive deck" width=85%>
+    <img src="https://raw.githubusercontent.com/mauroemartinez/RPA-exchange-rate-scrapping-automatic-mailing/main/Assets/Architecture.png" alt="Daily macro report architecture" width=85%>
   </a>
 </p>
 <p align="center">
@@ -94,7 +94,7 @@ I am an Argentine **📈Analytics and AI Automation Engineer** and **🎓B.A. in
 
 ### [🏮 HSK Chinese Proficiency Vocabulary Analysis](https://github.com/mauroemartinez/HSK_Vocabulary)
 *A statistical frequency analysis of HSK (1-6) vocabulary. Includes data normalization and visual insights to optimize learning paths based on character recurrence.*
-* **Stack:** `Python`, `Pandas`, `Matplotlib` (Chinese Font configurarion).
+* **Stack:** `Python`, `Pandas`, `Matplotlib` (Chinese Font configuration).
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/mauroemartinez/HSK_Vocabulary/main/Top%2025%20Hanzi%20by%20Frequency.jpg" alt="HSK Analysis" width=85%>
