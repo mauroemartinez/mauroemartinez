@@ -1,18 +1,19 @@
-# Hi there, I'm Mauro Martinez! 👋
-
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=40&pause=1500&color=36BCF7&center=true&vCenter=true&width=1000&height=100&lines=%F0%9F%A4%96+Analytics+%26+AI+Automation+Eng.;%F0%9F%9A%A2+B.A.+in+International+Trade" alt="Typing SVG" />
-  </a>
+  <img src="assets/profile-banner.svg" alt="Mauro Martinez — AI automation, analytics and global trade. Globalaize: Go Global with AI." width="100%" />
 </p>
+
 <p align="left">
-  <strong>Applied Data Analytics and customized Agentic Automation for Global Businesses: Transforming complex multi-sector ecosystems into data-driven competitive advantages.</strong>
+  <strong>I build AI automations, data pipelines, and BI dashboards for international trade and business operations, turning sourcing, customs, and logistics challenges into measurable business results.</strong>
 </p>
+
+| **10+ AI agents** | **Every 5 minutes** | **7 charts + 9 slides** |
+| :---: | :---: | :---: |
+| Commercial sourcing SaaS | Mercado Libre Q&A cycle | Automated daily macro reporting |
 
 ---
 
 ## 👤 About Me
-I am an Argentine **📈Analytics and AI Automation Engineer** and **🎓B.A. in International Trade** with Polish citizenship. My edge lies at the intersection of global business vision and the technical power of the **Modern Data and Automation Stack**.
+I am an Argentine **🤖 AI Automation and Analytics Engineer** and **🎓 B.A. in International Trade** with Polish citizenship. Working in international trade since **2018**, I combine hands-on business experience with AI, data engineering, and analytics to automate operations and build commercial products.
 
 * **Advanced English:** Extensive experience leading international negotiations and collaborating with multicultural teams (USA, China, India, Malaysia, Brazil).
 * **Native Spanish:** Born and raised in Argentina.
@@ -22,13 +23,21 @@ I am an Argentine **📈Analytics and AI Automation Engineer** and **🎓B.A. in
 ---
 
 ## 💪 Key Achievements & Impact
-- **Multi-Agent AI Sourcing System:** Designed and deployed a system of 10+ AI agents that finds and negotiates with Asian suppliers, classifies products via RAG, and returns a priced, interactive landed-cost quotation deployed online, backed by a web app that tracks costs and negotiation progress live, targeting a lead-to-quotation cycle under 72 hours.
-- **Macro Data Automation:** Built an end-to-end `Python` + RPA pipeline (`Playwright`, `Pandas`, `Supabase`) that extracts macroeconomic data from multiple portals, calculates historical gaps and variations, and distributes AI-generated summaries and visualizations via email and delivers an AI-commented report by mail and PowerPoint, triggered from Cloudflare and run on GitHub Actions for free.
+
+- **Multi-Agent AI Sourcing SaaS:** Built an internal sourcing system and commercialized it as a SaaS offering. Its 10+ AI agents find and negotiate with Asian suppliers, support product classification through RAG, and generate interactive landed-cost quotations. A web app tracks costs and negotiations, targeting a lead-to-quotation cycle under 72 hours.
+- **Mercado Libre Customer Q&A Bot:** Automated buyer-question responses on a five-minute cycle, improving average response times and company visibility on the marketplace while eliminating the manual work previously required to answer those questions.
+- **AI-Powered Macroeconomic Reporting:** Built an unattended pipeline tracking **FX rates, country risk, interest rates, inflation, monetary aggregates, public and private debt, and Bitcoin**. Delivers a daily HTML report with seven charts and a nine-slide executive deck: Python computes the indicators; Gemini writes the commentary. Automated validation, duplicate-run protection, failure alerts, and 260+ offline tests support reliable delivery through Cloudflare Workers and GitHub Actions on free plans.
 - **Self-Service Analytics for Microsoft:** Reduced operational workload for Microsoft's global sales team by deploying a self-service `Power BI` solution, eliminating manual email-based queries (100% English-led role).
+
+<details>
+<summary><b>More achievements & business impact</b></summary>
+
 - **Process Automation:** Eliminated 100% of manual errors in customs declarations by replacing legacy workflows with an automated `Power Query` ETL pipeline, cutting task time by 90%.
 - **Cost Efficiency:** Achieved a 50% reduction in FOB costs for a key product line through data-driven competitor benchmarking and supplier development.
 - **Supply Chain Optimization:** Identified critical bottlenecks in international logistics by merging multiple data sources and visualizing insights with `Power BI`, enabling real-time decision-making.
 - **Department Foundations:** Built the Analytics unit from scratch for an international trade consultancy, delivering client-facing services plus cross-functional support to Finance, C-Level, HR, International Trade, Logistics, and Sales.
+
+</details>
 
 ---
 
@@ -37,9 +46,9 @@ I am an Argentine **📈Analytics and AI Automation Engineer** and **🎓B.A. in
 | Category | Tools |
 | :--- | :--- |
 | **Ingestion & ETL** | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white) ![Polars](https://img.shields.io/badge/Polars-%23CD792C.svg?style=for-the-badge&logo=polars&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Power Query](https://img.shields.io/badge/Power_Query-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) |
-| **BI & Viz** | ![Seaborn](https://img.shields.io/badge/Seaborn-4479A1?style=for-the-badge&logo=python&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=matplotlib&logoColor=black) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Looker](https://img.shields.io/badge/Looker-3F51B5?style=for-the-badge&logo=looker&logoColor=white) ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white) ![DAX](https://img.shields.io/badge/DAX-%230176D3.svg?style=for-the-badge&logo=salesforce&logoColor=white) |
+| **BI & Viz** | ![Seaborn](https://img.shields.io/badge/Seaborn-4479A1?style=for-the-badge&logo=python&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=matplotlib&logoColor=black) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Looker](https://img.shields.io/badge/Looker-3F51B5?style=for-the-badge&logo=looker&logoColor=white) ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white) ![DAX](https://img.shields.io/badge/DAX-%230176D3.svg?style=for-the-badge) |
 | **Storage & Data Ops** | ![Microsoft Fabric](https://img.shields.io/badge/Microsoft_Fabric-0078D4?style=for-the-badge&logo=microsoft&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) ![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black) |
-| **Automation** | ![n8n](https://img.shields.io/badge/n8n-E92063?style=for-the-badge&logo=n8n&logoColor=white) ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white) ![Selenium](https://img.shields.io/badge/-Selenium-%43B02A?style=for-the-badge&logo=Selenium&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white) | ![Cloudflare Workers](https://img.shields.io/badge/Cloudflare_Workers-F38020?style=for-the-badge&logo=cloudflareworkers&logoColor=white)
+| **Automation** | ![n8n](https://img.shields.io/badge/n8n-E92063?style=for-the-badge&logo=n8n&logoColor=white) ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white) ![Selenium](https://img.shields.io/badge/-Selenium-%43B02A?style=for-the-badge&logo=Selenium&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white) ![Cloudflare Workers](https://img.shields.io/badge/Cloudflare_Workers-F38020?style=for-the-badge&logo=cloudflareworkers&logoColor=white) |
 | **AI APIs** | ![Anthropic](https://img.shields.io/badge/Claude_API-CC9B7A?style=for-the-badge&logo=anthropic&logoColor=white) ![OpenAI](https://img.shields.io/badge/ChatGPT_API-412991?style=for-the-badge&logo=openai&logoColor=white) ![Google Gemini](https://img.shields.io/badge/Gemini_API-8E75C2?style=for-the-badge&logo=googlegemini&logoColor=white) |
 
 ---
@@ -55,18 +64,29 @@ I am an Argentine **📈Analytics and AI Automation Engineer** and **🎓B.A. in
   </a>
 </p>
 
-### [🤖 RPA Exchange Rate Scraping + Mailing](https://github.com/mauroemartinez/RPA-exchange-rate-scrapping-automatic-mailing)
-*Every business day at 16:00 a Cloudflare Worker fires a GitHub Actions run that scrapes Argentine FX rates, country risk, BCRA and FED rates, inflation, monetary aggregates and public debt, stores them in Supabase, asks Gemini for a structured commentary, and mails a seven-chart HTML report plus a nine-slide executive deck to a subscriber list. 260+ offline tests, zero infrastructure cost.*
-* **Stack:** `Python`, `Pandas`, `Playwright`, `httpx`, `Pydantic`, `Supabase`, `Gemini API`, `Matplotlib`, `Seaborn`, `python-pptx`, `Cloudflare Workers`, `GitHub Actions`, `pytest`.*
+### [🤖 AI-Powered Argentine Macroeconomic Reporting](https://github.com/mauroemartinez/RPA-exchange-rate-scrapping-automatic-mailing)
+*From market data to executive reporting, without manual compilation. Tracks Argentine FX rates, country risk, BCRA and Federal Reserve interest rates, inflation, monetary aggregates, public and private debt, and Bitcoin. Every business day at 16:00 Argentina time, the pipeline validates and stores the data in Supabase and delivers an HTML email with seven charts plus a nine-slide PowerPoint deck. Python computes the figures; Gemini adds structured commentary. The latest charts and deck are published automatically to the repository.*
+
+* **Reliability:** Concurrent ingestion, schema validation, duplicate-run protection, AI model failover, failure alerts, and a daily completeness check. 260+ offline tests run in CI.
+* **Stack:** `Python`, `Pandas`, `Playwright`, `httpx`, `Pydantic`, `Supabase`, `Gemini API`, `Jinja2`, `Matplotlib`, `Seaborn`, `python-pptx`, `Cloudflare Workers`, `GitHub Actions`, `pytest`.
 <p align="center">
   <a href="https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2Fmauroemartinez%2FRPA-exchange-rate-scrapping-automatic-mailing%2Freporte-ejecutivo%2FReporte%2520Ejecutivo.pptx">
-    <img src="https://raw.githubusercontent.com/mauroemartinez/RPA-exchange-rate-scrapping-automatic-mailing/main/Assets/Architecture.png" alt="Daily macro report architecture" width=85%>
+    <img src="https://raw.githubusercontent.com/mauroemartinez/RPA-exchange-rate-scrapping-automatic-mailing/main/Assets/Presentacion.jpg" alt="Preview of the nine-slide daily macroeconomic executive deck" width="100%">
   </a>
 </p>
 <p align="center">
   <i>Daily executive deck, built and published automatically by the pipeline.</i><br>
   <a href="https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2Fmauroemartinez%2FRPA-exchange-rate-scrapping-automatic-mailing%2Freporte-ejecutivo%2FReporte%2520Ejecutivo.pptx"><b>▶️ View today's deck online</b></a>
 </p>
+
+<details>
+<summary><b>View pipeline architecture</b></summary>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mauroemartinez/RPA-exchange-rate-scrapping-automatic-mailing/main/Assets/Architecture.png" alt="Architecture of the automated macroeconomic reporting pipeline" width="100%">
+</p>
+
+</details>
 
 ### [📊 LATAM Market Intelligence & Import Analytics](https://github.com/mauroemartinez/Latam_Imports_Market_Intelligence)
 *Market share analysis and KPI visualization for potential importers across Latin America. Designed to identify strategic partners and competitive landscape shifts.*
@@ -102,12 +122,19 @@ I am an Argentine **📈Analytics and AI Automation Engineer** and **🎓B.A. in
 
 ---
 
-## 📈 My GitHub Contributions
-[![Mauro's GitHub activity](https://github-readme-activity-graph.vercel.app/graph?username=mauroemartinez&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true)](https://github.com/mauroemartinez)
+## 📈 GitHub Activity & Profile Summary
+
+<p align="center">
+  <a href="https://github.com/mauroemartinez?tab=overview">
+    <img src="assets/github-activity.svg" alt="GitHub contribution timeline and profile statistics for Mauro Martinez, with Y-axis labels every 50 contributions" width="100%" />
+  </a>
+</p>
 
 ---
 
 ## 📫 Let's get in Touch
+
+* 🌐 **Website:** [www.globalaize.com](https://www.globalaize.com)
 * 💼 **LinkedIn:** [/in/mauroemartinez](https://www.linkedin.com/in/mauroemartinez/)
 * 📧 **Email:** [martinezmauroezequiel@gmail.com](mailto:martinezmauroezequiel@gmail.com)
 * 📱 **WhatsApp:** [+54 9 11 5990-9647](https://wa.me/5491159909647?text=Hola%20Mauro%2C%20%C2%BFc%C3%B3mo%20est%C3%A1s%3F%20Vi%20tu%20perfil%20de%20+IA+%2B+Comex+en+tu+%20GitHub%20y%20me%20gustar%C3%ADa%20contactarte.)
@@ -118,7 +145,7 @@ I am an Argentine **📈Analytics and AI Automation Engineer** and **🎓B.A. in
 ---
 
 <p align="center">
-  <i>"Data Pipelines → Actionable Insights → Strategic Impact. Simple & Scalable"</i>
+  <i>"AI, data &amp; global trade. Built to solve real business problems."</i>
 </p>
 
 ---
