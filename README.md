@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&amp;size=24&amp;pause=1800&amp;color=59D6EF&amp;center=true&amp;vCenter=true&amp;width=1000&amp;height=44&amp;lines=AI+Automation+%26+Analytics+Engineer;B.A.+in+International+Trade" alt="AI Automation &amp; Analytics Engineer · B.A. in International Trade" width="100%" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&amp;size=24&amp;pause=1800&amp;color=59D6EF&amp;center=true&amp;vCenter=true&amp;width=1000&amp;height=44&amp;lines=%F0%9F%A4%96+AI+Automation+%26+%F0%9F%93%88+Analytics+Engineer;%F0%9F%9A%A2+%F0%9F%8E%93+B.A.+in+International+Trade" alt="🤖 AI Automation &amp; 📈 Analytics Engineer · 🚢 🎓 B.A. in International Trade" width="100%" />
 </p>
 
 <p align="left">
@@ -13,6 +13,10 @@
 | **10+ AI agents** | **Every 5 minutes** | **7 charts + 9 slides** |
 | :---: | :---: | :---: |
 | Commercial sourcing SaaS | Mercado Libre Q&A cycle | Automated daily macro reporting |
+
+<p align="center">
+  <a href="#-lets-get-in-touch"><strong>📫 Let's get in touch ↓</strong></a>
+</p>
 
 ---
 
