@@ -1,0 +1,13 @@
+# Keep this profile repository limited to its published files.
+*
+!.gitignore
+!README.md
+!assets/
+!assets/profile-banner.svg
+!assets/globalaize-logo.jpg
+!assets/github-activity.svg
+!scripts/
+!scripts/update_activity.py
+!.github/
+!.github/workflows/
+!.github/workflows/activity.yml
