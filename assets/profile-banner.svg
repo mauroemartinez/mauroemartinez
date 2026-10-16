@@ -8,7 +8,6 @@
   </style>
   <defs>
     <linearGradient id="background" x2="1" y2="1"><stop stop-color="#07172f"/><stop offset="1" stop-color="#123756"/></linearGradient>
-    <linearGradient id="accent"><stop stop-color="#59d6ef"/><stop offset="1" stop-color="#5688f4"/></linearGradient>
     <radialGradient id="ocean" cx="32%" cy="28%" r="80%"><stop stop-color="#26749c"/><stop offset="0.65" stop-color="#12446d"/><stop offset="1" stop-color="#071a34"/></radialGradient>
     <radialGradient id="atmosphere"><stop offset="0.8" stop-color="#55d5eb" stop-opacity="0"/><stop offset="0.92" stop-color="#55d5eb" stop-opacity="0.16"/><stop offset="1" stop-color="#55d5eb" stop-opacity="0"/></radialGradient>
     <radialGradient id="globe-shade" cx="28%" cy="28%" r="80%"><stop offset="0.25" stop-color="#07172f" stop-opacity="0"/><stop offset="0.8" stop-color="#07172f" stop-opacity="0.15"/><stop offset="1" stop-color="#020c1b" stop-opacity="0.8"/></radialGradient>
@@ -39,13 +38,11 @@
     <circle cx="115" cy="115" r="115" fill="url(#globe-shade)"/>
     <circle cx="115" cy="115" r="115" fill="none" stroke="#82e0ef" stroke-opacity="0.5"/>
   </g>
-  <rect x="52" y="42" width="42" height="4" rx="2" fill="url(#accent)"/>
-  <g font-family="Arial, Helvetica, sans-serif">
-    <text x="52" y="80" fill="#a5deef" font-size="15" letter-spacing="2.6">AI AUTOMATION | ANALYTICS | GLOBAL TRADE</text>
-    <text x="49" y="143" fill="#ffffff" font-size="56" font-weight="700">Mauro Martinez</text>
+  <g font-family="Segoe UI, Helvetica Neue, Arial, sans-serif">
+    <text x="52" y="80" fill="#dce4eb" font-size="19">AI Automation | Analytics | Global Trade</text>
+    <text x="49" y="143" fill="#ffffff" font-size="54" font-weight="600">Mauro Martinez</text>
     <text x="52" y="186" fill="#e1edf8" font-size="22">Built to solve real business problems.</text>
-    <text x="52" y="216" fill="#a5deef" font-size="17">n8n | Python | Fabric | Power BI | SQL | Excel</text>
-    <path d="M52 235H715" stroke="#5d829c" stroke-opacity="0.5"/>
+    <text x="52" y="216" fill="#dce4eb" font-size="17">n8n | Python | Fabric | Power BI | SQL | Excel</text>
     <text x="52" y="273" fill="#bacbdb" font-size="16">Argentina + EU citizen | International trade since 2018</text>
   </g>
   <rect x="1060" y="192" width="118" height="96" rx="12" fill="#ffffff"/>
