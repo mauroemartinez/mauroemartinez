@@ -2,6 +2,10 @@
   <img src="assets/profile-banner.svg" alt="Mauro Martinez — AI automation, analytics and global trade. Globalaize: Go Global with AI." width="100%" />
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&amp;size=24&amp;pause=1800&amp;color=59D6EF&amp;center=true&amp;vCenter=true&amp;width=1000&amp;height=44&amp;lines=AI+Automation+%26+Analytics+Engineer;B.A.+in+International+Trade" alt="AI Automation &amp; Analytics Engineer · B.A. in International Trade" width="100%" />
+</p>
+
 <p align="left">
   <strong>I build AI automations, data pipelines, and BI dashboards for international trade and business operations, turning sourcing, customs, and logistics challenges into measurable business results.</strong>
 </p>
@@ -136,7 +140,7 @@ I am an Argentine **🤖 AI Automation and Analytics Engineer** and **🎓 B.A. 
 
 * 🌐 **Website:** [www.globalaize.com](https://www.globalaize.com)
 * 💼 **LinkedIn:** [/in/mauroemartinez](https://www.linkedin.com/in/mauroemartinez/)
-* 📧 **Email:** [martinezmauroezequiel@gmail.com](mailto:martinezmauroezequiel@gmail.com)
+* 📧 **Email:** [mauro@globalaize.com](mailto:mauro@globalaize.com)
 * 📱 **WhatsApp:** [+54 9 11 5990-9647](https://wa.me/5491159909647?text=Hola%20Mauro%2C%20%C2%BFc%C3%B3mo%20est%C3%A1s%3F%20Vi%20tu%20perfil%20de%20+IA+%2B+Comex+en+tu+%20GitHub%20y%20me%20gustar%C3%ADa%20contactarte.)
 * 🌍 **Availability:** Open to 100% Remote (Worldwide) or Relocation.
 * ⚖ **Legal:** Argentine & EU Passport Ready (No sponsorship required for EU-based roles).

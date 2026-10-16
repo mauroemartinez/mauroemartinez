@@ -13,11 +13,15 @@ SOURCE = (
     "&title_color=58a6ff&text_color=c9d1d9&chart_color=59d6ef"
 )
 NS = {"s": "http://www.w3.org/2000/svg"}
+CONTACT_EMAIL = "mauro@globalaize.com"
 ET.register_namespace("", NS["s"])
 
 
 def format_card(source):
     root = ET.fromstring(source)
+    for label in root.iter(f"{{{NS['s']}}}text"):
+        if label.text and "@" in label.text:
+            label.text = CONTACT_EMAIL
     # shortcut: depends on the upstream SVG structure; fail without overwriting if it changes.
     chart = next(g for g in root.iter(f"{{{NS['s']}}}g") if g.find("s:g[@class='gpsc-chart']", NS) is not None)
     axis = chart.find("s:g[@text-anchor='start']", NS)
@@ -47,12 +51,13 @@ def format_card(source):
 
 
 def self_test():
-    sample = '''<svg xmlns="http://www.w3.org/2000/svg"><g><g class="gpsc-chart"><path d="M0,110L350,0"/></g><g text-anchor="start"><g class="tick" transform="translate(0,110.5)"><text>0</text></g><g class="tick" transform="translate(0,0.5)"><text>200</text></g></g></g></svg>'''
+    sample = '''<svg xmlns="http://www.w3.org/2000/svg"><text>old@example.com</text><g><g class="gpsc-chart"><path d="M0,110L350,0"/></g><g text-anchor="start"><g class="tick" transform="translate(0,110.5)"><text>0</text></g><g class="tick" transform="translate(0,0.5)"><text>200</text></g></g></g></svg>'''
     result = ET.fromstring(format_card(sample))
     labels = result.findall(".//s:g[@class='tick']/s:text", NS)
     assert [label.text for label in labels] == ["0", "50", "100", "150", "200"]
     assert result.find(".//s:path", NS).get("d") == "M0,110L350,0"
     assert result.get("viewBox") == "0 0 900 260"
+    assert result.find("s:text", NS).text == CONTACT_EMAIL
 
 
 if __name__ == "__main__":
