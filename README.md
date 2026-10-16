@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/profile-banner.svg?v=2" alt="Mauro Martinez — AI automation, analytics and global trade. n8n | Python | Fabric | Power BI | SQL | Excel. Globalaize: Go Global with AI." width="100%" />
+  <img src="assets/profile-banner.svg?v=3" alt="Mauro Martinez — AI automation, analytics and global trade. n8n | Python | Fabric | Power BI | SQL | Excel. Globalaize: Go Global with AI." width="100%" />
 </p>
 
 <p align="center">
@@ -15,7 +15,12 @@
 | Commercial sourcing SaaS | Mercado Libre Q&A cycle | Automated daily macro reporting |
 
 <p align="center">
-  <a href="#user-content--lets-get-in-touch"><strong>📫 Let's get in touch ↓</strong></a>
+  <a href="#user-content--about-me">About</a> |
+  <a href="#user-content--key-achievements--impact">Achievements</a> |
+  <a href="#user-content-%EF%B8%8F-tech-stack">Tech Stack</a> |
+  <a href="#user-content--featured-projects">Projects</a> |
+  <a href="#user-content--github-activity--profile-summary">Activity</a> |
+  <a href="#user-content--lets-get-in-touch">Contact</a>
 </p>
 
 ---
