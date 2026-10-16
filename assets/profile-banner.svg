@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">Mauro Martinez — AI automation, analytics and global trade</title>
+  <desc id="desc">Globalaize. Go Global with AI. International trade experience since 2018.</desc>
+  <style>
+    .earth-surface { animation: earth-rotation 32s linear infinite; }
+    @keyframes earth-rotation { from { transform: translateX(-65px); } to { transform: translateX(-525px); } }
+    @media (prefers-reduced-motion: reduce) { .earth-surface { animation: none; transform: translateX(-65px); } }
+  </style>
+  <defs>
+    <linearGradient id="background" x2="1" y2="1"><stop stop-color="#07172f"/><stop offset="1" stop-color="#123756"/></linearGradient>
+    <linearGradient id="accent"><stop stop-color="#59d6ef"/><stop offset="1" stop-color="#5688f4"/></linearGradient>
+    <radialGradient id="ocean" cx="32%" cy="28%" r="80%"><stop stop-color="#26749c"/><stop offset="0.65" stop-color="#12446d"/><stop offset="1" stop-color="#071a34"/></radialGradient>
+    <radialGradient id="atmosphere"><stop offset="0.8" stop-color="#55d5eb" stop-opacity="0"/><stop offset="0.92" stop-color="#55d5eb" stop-opacity="0.16"/><stop offset="1" stop-color="#55d5eb" stop-opacity="0"/></radialGradient>
+    <radialGradient id="globe-shade" cx="28%" cy="28%" r="80%"><stop offset="0.25" stop-color="#07172f" stop-opacity="0"/><stop offset="0.8" stop-color="#07172f" stop-opacity="0.15"/><stop offset="1" stop-color="#020c1b" stop-opacity="0.8"/></radialGradient>
+    <clipPath id="globe-clip"><circle cx="115" cy="115" r="114"/></clipPath>
+    <g id="world-map" fill="#68d5dc" stroke="#a1e6e5" stroke-width="0.7" stroke-linejoin="round">
+      <path d="M29 43 47 31 70 33 84 25 111 33 126 47 142 50 151 66 139 78 120 80 111 96 95 99 90 117 79 109 72 91 56 82 48 65 30 61 20 52Z"/>
+      <path d="M107 106 128 111 141 126 158 132 166 148 153 167 146 187 133 207 125 196 124 176 114 159 115 143 103 128 99 116Z"/>
+      <path d="M151 17 174 10 195 21 188 39 173 52 157 40Z"/>
+      <path d="M225 56 239 44 250 47 255 35 268 42 269 59 282 68 274 78 260 75 253 85 240 75 225 78 217 68Z"/>
+      <path d="M230 84 254 80 278 89 291 108 279 124 274 147 260 170 247 177 240 154 226 139 216 116 216 97Z"/>
+      <path d="M271 44 291 31 313 34 329 25 351 34 373 31 397 44 425 49 433 62 412 77 395 76 388 95 374 102 361 94 350 116 337 129 322 113 315 97 297 90 280 78 284 65Z"/>
+      <path d="M364 154 378 161 384 176 375 182 365 168ZM385 170 407 165 425 180 421 198 401 201 383 192 377 180ZM436 201 444 190 448 198 442 212Z"/>
+      <path d="M291 155 296 169 290 182 286 168ZM394 106 401 114 397 126 390 118Z"/>
+    </g>
+  </defs>
+  <rect width="1200" height="300" rx="18" fill="url(#background)"/>
+  <g transform="translate(885 26)" aria-hidden="true">
+    <circle cx="115" cy="115" r="132" fill="url(#atmosphere)"/>
+    <circle cx="115" cy="115" r="115" fill="url(#ocean)"/>
+    <g clip-path="url(#globe-clip)">
+      <g class="earth-surface"><use xlink:href="#world-map"/><use xlink:href="#world-map" x="460"/></g>
+      <g fill="none" stroke="#adeaf2" stroke-opacity="0.14" stroke-width="0.8">
+        <ellipse cx="115" cy="115" rx="60" ry="115"/>
+        <ellipse cx="115" cy="115" rx="115" ry="45"/>
+        <path d="M1 115H229"/>
+      </g>
+    </g>
+    <circle cx="115" cy="115" r="115" fill="url(#globe-shade)"/>
+    <circle cx="115" cy="115" r="115" fill="none" stroke="#82e0ef" stroke-opacity="0.5"/>
+  </g>
+  <rect x="52" y="42" width="42" height="4" rx="2" fill="url(#accent)"/>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="52" y="80" fill="#a5deef" font-size="15" letter-spacing="2.6">AI AUTOMATION / ANALYTICS / GLOBAL TRADE</text>
+    <text x="49" y="143" fill="#ffffff" font-size="56" font-weight="700">Mauro Martinez</text>
+    <text x="52" y="186" fill="#e1edf8" font-size="22">Built to solve real business problems.</text>
+    <path d="M52 215H715" stroke="#5d829c" stroke-opacity="0.5"/>
+    <text x="52" y="253" fill="#bacbdb" font-size="16">Argentina + EU citizen</text>
+    <circle cx="245" cy="247" r="3" fill="#59d6ef"/>
+    <text x="263" y="253" fill="#bacbdb" font-size="16">International trade since 2018</text>
+  </g>
+  <rect x="1060" y="192" width="118" height="96" rx="12" fill="#ffffff"/>
+  <image x="1077" y="198" width="84" height="84" preserveAspectRatio="xMidYMid meet" xlink:href="data:image/jpeg;base64,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"/>
+</svg>
