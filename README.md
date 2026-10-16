@@ -15,7 +15,7 @@
 | Commercial sourcing SaaS | Mercado Libre Q&A cycle | Automated daily macro reporting |
 
 <p align="center">
-  <a href="#-lets-get-in-touch"><strong>📫 Let's get in touch ↓</strong></a>
+  <a href="#user-content--lets-get-in-touch"><strong>📫 Let's get in touch ↓</strong></a>
 </p>
 
 ---
