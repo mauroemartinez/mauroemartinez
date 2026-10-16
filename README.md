@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/profile-banner.svg" alt="Mauro Martinez — AI automation, analytics and global trade. Python | SQL | n8n | Power BI | Supabase. Globalaize: Go Global with AI." width="100%" />
+  <img src="assets/profile-banner.svg?v=2" alt="Mauro Martinez — AI automation, analytics and global trade. n8n | Python | Fabric | Power BI | SQL | Excel. Globalaize: Go Global with AI." width="100%" />
 </p>
 
 <p align="center">
