@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/profile-banner.svg?v=4" alt="Mauro Martinez — AI automation, analytics and global trade. n8n | Python | Power BI | SQL | Excel. AI and data to solve global trade problems." width="100%" />
+  <img src="assets/profile-banner.svg?v=5" alt="Mauro Martinez — AI automation, analytics and global trade. n8n | Python | Power BI | SQL | Excel. Argentina and EU citizen. AI and data to solve global trade problems." width="100%" />
 </p>
 
 <p align="center">
@@ -15,6 +15,7 @@
 | Commercial sourcing SaaS | Mercado Libre Q&A cycle | Automated daily macro reporting |
 
 <p align="center">
+  <strong>🧭 Quick navigation | Click a section</strong><br>
   <a href="#user-content--about-me">About</a> |
   <a href="#user-content--key-achievements--impact">Achievements</a> |
   <a href="#user-content-%EF%B8%8F-tech-stack">Tech Stack</a> |
@@ -109,6 +110,9 @@ I am an Argentine **🤖 AI Automation and Analytics Engineer** and **🎓 B.A. 
   <img src="https://raw.githubusercontent.com/mauroemartinez/Latam_Imports_Market_Intelligence/main/Gif%20Tutorial.gif" alt="LATAM Dashboard Demo" width=85%>
 </p>
 
+<details>
+<summary><b>More projects</b></summary>
+
 ### [🛡️ COVID-19 PPE Import Market Study](https://github.com/mauroemartinez/Importaciones_EPP_COVID-19_Pre_vs_Postpandemia)
 *A comprehensive market study of Personal Protective Equipment (PPE) imports in Argentina, comparing pre-pandemic (2018-2019) vs. COVID-19 crisis period (2020-2021).*
 * **Stack:** `Power BI`, `Power Query`, `International Trade Data`.
@@ -132,6 +136,8 @@ I am an Argentine **🤖 AI Automation and Analytics Engineer** and **🎓 B.A. 
 <p align="center">
   <img src="https://raw.githubusercontent.com/mauroemartinez/HSK_Vocabulary/main/Top%2025%20Hanzi%20by%20Frequency.jpg" alt="HSK Analysis" width=85%>
 </p>
+
+</details>
 
 ---
 
