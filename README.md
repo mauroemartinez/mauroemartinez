@@ -190,3 +190,7 @@ I am an Argentine **🤖 Data Analytics & AI Automation Engineer** and **🎓 B.
 <p align="center">
   <i>"AI &amp; data to solve global trade problems."</i>
 </p>
+
+---
+
+![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fmauroemartinez&label=%F0%9F%8D%AA+Cookies+delivered+to+visitors&color=%23084298&message=&style=plastic&tz=Etc%2FGMT-3)
