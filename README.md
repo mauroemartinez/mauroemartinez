@@ -13,7 +13,7 @@
 <table width="100%">
   <tr>
     <td align="center" valign="top" width="33%">
-      <h3>🚢 International Commercial Sourcing<br>24/7 SaaS Automation</h3>
+      <h3>🌐 GlobalAIze | International Sourcing<br>24/7 SaaS Automation</h3>
       <h2>10+ AI agents</h2>
       <p>Supplier discovery, negotiation, RAG-powered product classification, and landed-cost quotations in a commercial SaaS.</p>
     </td>
