@@ -47,8 +47,12 @@ I am an Argentine **🤖 AI Automation and Analytics Engineer** and **🎓 B.A. 
 
 * **Advanced English:** Extensive experience leading international negotiations and collaborating with multicultural teams (USA, China, India, Malaysia, Brazil).
 * **Native Spanish:** Born and raised in Argentina.
-* **Basic Chinese:** Applied to technical documentation interpretation and building commercial trust.
+* **Basic Chinese:** Began learning in 2018; applied to technical documentation interpretation and building commercial trust.
 * **EU Citizen:** Open to Remote/Relocation opportunities.
+
+<p align="center">
+  <img src="assets/career-timeline.svg" alt="Career timeline: 2018 — International Trade student, Import Analyst, and began learning Chinese. 2024 — graduated with a B.A. in International Trade. Today — AI automation, analytics, and commercial sourcing SaaS." width="100%" />
+</p>
 
 ---
 
@@ -86,7 +90,7 @@ I am an Argentine **🤖 AI Automation and Analytics Engineer** and **🎓 B.A. 
 ## 🚀 Featured Projects
 
 ### [💼 Professional Data Portfolio (Slide Deck)](https://docs.google.com/presentation/d/1CYxJus8K5OhROraqleF-ntOejzjPTLRBven9R5F1C0o/edit?usp=sharing)
-*A comprehensive showcase of my analytical approach to easily be read by anyone, featuring end-to-end projects, business impact, and visualization standards.*
+*Selected projects showing my analytical approach, business impact, and data visualization.*
 
 <p align="center">
   <a href="https://docs.google.com/presentation/d/1CYxJus8K5OhROraqleF-ntOejzjPTLRBven9R5F1C0o/edit?usp=sharing">
@@ -168,6 +172,8 @@ I am an Argentine **🤖 AI Automation and Analytics Engineer** and **🎓 B.A. 
 ---
 
 ## 📫 Let's get in Touch
+
+<a href="https://www.globalaize.com"><img align="right" src="assets/globalaize-logo.jpg" alt="GlobalAIze | Go Global with AI" width="100" /></a>
 
 * 🌐 **Website:** [www.globalaize.com](https://www.globalaize.com)
 * 💼 **LinkedIn:** [/in/mauroemartinez](https://www.linkedin.com/in/mauroemartinez/)

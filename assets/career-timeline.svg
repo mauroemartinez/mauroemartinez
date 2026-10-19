@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="230" viewBox="0 0 1000 230" role="img" aria-labelledby="title desc">
+  <title id="title">From international trade to AI automation</title>
+  <desc id="desc">2018: International Trade student and Import Analyst; began learning Chinese. 2024: graduated with a B.A. in International Trade. Today: building AI automation, analytics, and a commercial sourcing SaaS.</desc>
+  <rect width="1000" height="230" rx="16" fill="#07172f"/>
+  <g font-family="Segoe UI,Arial,sans-serif">
+    <text x="32" y="36" fill="#f0f6fc" font-size="20" font-weight="600">From international trade to AI automation</text>
+    <path d="M60 78H940" stroke="#24465d" stroke-width="3"/>
+    <path d="M60 78H660" stroke="#20b0d0" stroke-width="3"/>
+    <g fill="#20b0d0"><circle cx="60" cy="78" r="7"/><circle cx="360" cy="78" r="7"/><circle cx="660" cy="78" r="7"/></g>
+    <g fill="#59d6ef" font-size="24" font-weight="700"><text x="40" y="122">2018</text><text x="340" y="122">2024</text><text x="640" y="122">Today</text></g>
+    <g fill="#f0f6fc" font-size="17" font-weight="600"><text x="40" y="154">International Trade student</text><text x="340" y="154">B.A. in International Trade</text><text x="640" y="154">AI automation &amp; analytics</text></g>
+    <g fill="#b8c9d9" font-size="16"><text x="40" y="181">Working as an Import Analyst</text><text x="40" y="205">Began learning Chinese</text><text x="340" y="181">Graduated</text><text x="640" y="181">Building commercial sourcing SaaS</text><text x="640" y="205">Turning trade experience into products</text></g>
+  </g>
+</svg>
