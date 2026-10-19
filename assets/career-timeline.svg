@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="528" viewBox="0 0 1200 528" role="img" aria-labelledby="title desc">
   <title id="title">Mauro Martinez career timeline: from running international trade operations to automating them with AI</title>
-  <desc id="desc">2018: International Trade Assistant at Industrias De Pascale (Aug 2018 - Feb 2021). 2021: International Trade Analyst at Coteminas Argentina (Mar 2021 - Sep 2022). Jun 2021: started in data analytics. 2022: Commercial BI Analyst at B&amp;B Consultora (Sep 2022 - Oct 2024). 2023: Founder &amp; AI Engineer at GlobalAIze (Sep 2023 - Present). 2024: Data Analyst for Microsoft at Launch Consulting Group (Oct 2024 - Aug 2025). Nov 2024: B.A. in International Trade, UNLaM. 2026: International Trade &amp; AI Analyst at SLS Global (May 2026 - Present).</desc>
+  <desc id="desc">2018: International Trade Assistant at Industrias De Pascale (Aug 2018 - Feb 2021). 2021: International Trade Analyst at Coteminas Argentina (Mar 2021 - Sep 2022). Jun 2021: started in data analytics. 2022: Commercial BI Analyst at B&amp;B Consultora (Sep 2022 - Oct 2024). 2023: Founder &amp; AI Engineer at GlobalAIze (Sep 2023 - Present). 2024: Data Analyst for Microsoft at Launch Consulting Group (Oct 2024 - Aug 2025). Nov 2024: B.A. in International Trade, UNLaM. 2026: International Trade &amp; AI Automation at SLS Global (May 2026 - Present).</desc>
   <defs>
     <linearGradient id="fade" x1="0" x2="1"><stop offset="0" stop-color="#20b0d0"/><stop offset="1" stop-color="#20b0d0" stop-opacity="0"/></linearGradient>
     <clipPath id="tile-depascale"><rect x="85.2" y="74" width="58" height="58" rx="12"/></clipPath>
@@ -88,10 +88,10 @@
     <text fill="#b8c9d9" font-size="13.5"><tspan x="816.3" y="344.5">Built self-service Power</tspan><tspan x="816.3" y="363.5">BI for Microsoft&#x27;s global</tspan><tspan x="816.3" y="382.5">sales team, in a 100%</tspan><tspan x="816.3" y="401.5">English role.</tspan></text>
     <text fill="#59d6ef" font-size="13" font-weight="700"><tspan x="816.3" y="430.0">Nov 2024: B.A. in</tspan><tspan x="816.3" y="448.0">International Trade,</tspan><tspan x="816.3" y="466.0">UNLaM</tspan></text>
     <rect x="995.7" y="214" width="180.3" height="288" rx="12" fill="#102a43" stroke="#24465d"/>
-    <text fill="#f0f6fc" font-size="15.5" font-weight="700"><tspan x="1010.7" y="244.5">International Trade</tspan><tspan x="1010.7" y="264.5">&amp; AI Analyst</tspan></text>
+    <text fill="#f0f6fc" font-size="15.5" font-weight="700"><tspan x="1010.7" y="244.5">International Trade</tspan><tspan x="1010.7" y="264.5">&amp; AI Automation</tspan></text>
     <text x="1010.7" y="295.0" fill="#59d6ef" font-size="13.5" font-weight="600">SLS Global</text>
     <text x="1010.7" y="313.0" fill="#8aa4bd" font-size="12.5">May 2026 - Present</text>
     <path d="M1010.7 323.0H1161.0" stroke="#24465d"/>
-    <text fill="#b8c9d9" font-size="13.5"><tspan x="1010.7" y="344.5">Leading AI automation</tspan><tspan x="1010.7" y="363.5">end to end: SQL data</tspan><tspan x="1010.7" y="382.5">model, RAG-powered</tspan><tspan x="1010.7" y="401.5">negotiation engine and</tspan><tspan x="1010.7" y="420.5">real-time cost</tspan><tspan x="1010.7" y="439.5">dashboards.</tspan></text>
+    <text fill="#b8c9d9" font-size="13.5"><tspan x="1010.7" y="344.5">Leading projects end to</tspan><tspan x="1010.7" y="363.5">end: SQL data model,</tspan><tspan x="1010.7" y="382.5">RAG-powered</tspan><tspan x="1010.7" y="401.5">negotiation engine and</tspan><tspan x="1010.7" y="420.5">real-time cost</tspan><tspan x="1010.7" y="439.5">dashboards.</tspan></text>
   </g>
 </svg>

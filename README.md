@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&amp;size=24&amp;pause=1800&amp;color=59D6EF&amp;center=true&amp;vCenter=true&amp;width=1000&amp;height=44&amp;lines=%F0%9F%A4%96+AI+Automation+%26+Analytics+Engineer+%F0%9F%93%88;%F0%9F%9A%A2+B.A.+in+International+Trade+%F0%9F%8E%93" alt="🤖 AI Automation &amp; Analytics Engineer 📈 | 🚢 B.A. in International Trade 🎓" width="100%" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&amp;size=24&amp;pause=1800&amp;color=59D6EF&amp;center=true&amp;vCenter=true&amp;width=1000&amp;height=44&amp;lines=%F0%9F%A4%96+Data+Analytics+%26+AI+Automation+Engineer+%F0%9F%93%88;%F0%9F%9A%A2+B.A.+in+International+Trade+%F0%9F%8E%93" alt="🤖 Data Analytics &amp; AI Automation Engineer 📈 | 🚢 B.A. in International Trade 🎓" width="100%" />
 </p>
 
 <p align="left">
@@ -43,7 +43,7 @@
 ---
 
 ## 👤 About Me
-I am an Argentine **🤖 AI Automation and Analytics Engineer** and **🎓 B.A. in International Trade** with Polish citizenship. Working in international trade since **2018**, I combine hands-on business experience with AI, data engineering, and analytics to automate operations and build commercial products.
+I am an Argentine **🤖 Data Analytics & AI Automation Engineer** and **🎓 B.A. in International Trade** with Polish citizenship. Working in international trade since **2018**, I combine hands-on business experience with AI, data engineering, and analytics to automate operations and build commercial products.
 
 * **Advanced English:** Extensive experience leading international negotiations and collaborating with multicultural teams (USA, China, India, Malaysia, Brazil).
 * **Native Spanish:** Born and raised in Argentina.
@@ -51,7 +51,7 @@ I am an Argentine **🤖 AI Automation and Analytics Engineer** and **🎓 B.A. 
 * **EU Citizen:** Open to Remote/Relocation opportunities.
 
 <p align="center">
-  <img src="assets/career-timeline.svg?v=2" alt="Career timeline. 2018: International Trade Assistant at Industrias De Pascale. 2021: International Trade Analyst at Coteminas Argentina, starting in data analytics. 2022: Commercial BI Analyst at B&amp;B Consultora. 2023: founded GlobalAIze, with clients including Proa Latam. 2024: Data Analyst for Microsoft at Launch Consulting Group and B.A. in International Trade from UNLaM. 2026: International Trade &amp; AI Analyst at SLS Global." width="100%" /><br>
+  <img src="assets/career-timeline.svg?v=3" alt="Career timeline. 2018: International Trade Assistant at Industrias De Pascale. 2021: International Trade Analyst at Coteminas Argentina, starting in data analytics. 2022: Commercial BI Analyst at B&amp;B Consultora. 2023: founded GlobalAIze, with clients including Proa Latam. 2024: Data Analyst for Microsoft at Launch Consulting Group and B.A. in International Trade from UNLaM. 2026: International Trade &amp; AI Automation at SLS Global." width="100%" /><br>
   <sub>Logos are trademarks of their respective owners, shown only to identify employers, clients and education. No endorsement is implied.</sub>
 </p>
 
@@ -61,6 +61,7 @@ I am an Argentine **🤖 AI Automation and Analytics Engineer** and **🎓 B.A. 
 
 - **Multi-Agent AI Sourcing SaaS:** Built an internal sourcing system and commercialized it as a SaaS offering operating **24/7**. Its 10+ AI agents find and negotiate with Asian suppliers, support product classification through RAG, and generate interactive landed-cost quotations. A web app tracks costs and negotiations, targeting a lead-to-quotation cycle under 72 hours.
 - **Mercado Libre Customer Q&A Bot:** Automated buyer-question responses **24/7 on a five-minute cycle**, improving average response times and company visibility on the marketplace while eliminating the manual work previously required to answer those questions.
+- **AI Voice Agents:** Built voice agents on `Retell` with `ElevenLabs` voices, orchestrated through `n8n` and connected to business tools for stock checks, calendar booking, and general inquiries.
 - **AI-Powered Macroeconomic Reporting:** Built an unattended pipeline tracking **FX rates, country risk, interest rates, inflation, monetary aggregates, public and private debt, and Bitcoin**. Delivers a daily HTML report with seven charts and a nine-slide executive deck: Python computes the indicators; Gemini writes the commentary. Automated validation, duplicate-run protection, failure alerts, and 260+ offline tests support reliable delivery through Cloudflare Workers and GitHub Actions on free plans.
 - **Self-Service Analytics for Microsoft:** Reduced operational workload for Microsoft's global sales team by deploying a self-service `Power BI` solution, eliminating manual email-based queries (100% English-led role).
 
@@ -81,10 +82,10 @@ I am an Argentine **🤖 AI Automation and Analytics Engineer** and **🎓 B.A. 
 | Category | Tools |
 | :--- | :--- |
 | **Ingestion & ETL** | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white) ![Polars](https://img.shields.io/badge/Polars-%23CD792C.svg?style=for-the-badge&logo=polars&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Power Query](https://img.shields.io/badge/Power_Query-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) |
-| **BI & Viz** | ![Seaborn](https://img.shields.io/badge/Seaborn-4479A1?style=for-the-badge&logo=python&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=matplotlib&logoColor=black) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Looker](https://img.shields.io/badge/Looker-3F51B5?style=for-the-badge&logo=looker&logoColor=white) ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white) ![DAX](https://img.shields.io/badge/DAX-%230176D3.svg?style=for-the-badge) |
+| **BI & Viz** | ![Seaborn](https://img.shields.io/badge/Seaborn-4479A1?style=for-the-badge&logo=python&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=matplotlib&logoColor=black) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white) ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white) ![DAX](https://img.shields.io/badge/DAX-%230176D3.svg?style=for-the-badge) |
 | **Storage & Data Ops** | ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) ![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black) |
 | **Automation** | ![n8n](https://img.shields.io/badge/n8n-E92063?style=for-the-badge&logo=n8n&logoColor=white) ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white) ![Selenium](https://img.shields.io/badge/-Selenium-%43B02A?style=for-the-badge&logo=Selenium&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white) ![Cloudflare Workers](https://img.shields.io/badge/Cloudflare_Workers-F38020?style=for-the-badge&logo=cloudflareworkers&logoColor=white) |
-| **AI APIs** | ![Anthropic](https://img.shields.io/badge/Claude_API-CC9B7A?style=for-the-badge&logo=anthropic&logoColor=white) ![OpenAI](https://img.shields.io/badge/ChatGPT_API-412991?style=for-the-badge&logo=openai&logoColor=white) ![Google Gemini](https://img.shields.io/badge/Gemini_API-8E75C2?style=for-the-badge&logo=googlegemini&logoColor=white) |
+| **AI APIs** | ![Anthropic](https://img.shields.io/badge/Claude_API-CC9B7A?style=for-the-badge&logo=anthropic&logoColor=white) ![OpenAI](https://img.shields.io/badge/ChatGPT_API-412991?style=for-the-badge&logo=openai&logoColor=white) ![Google Gemini](https://img.shields.io/badge/Gemini_API-8E75C2?style=for-the-badge&logo=googlegemini&logoColor=white) ![Retell AI](https://img.shields.io/badge/Retell_AI-1F2937?style=for-the-badge) ![ElevenLabs](https://img.shields.io/badge/ElevenLabs-000000?style=for-the-badge&logo=elevenlabs&logoColor=white) |
 
 ---
 
@@ -125,7 +126,7 @@ I am an Argentine **🤖 AI Automation and Analytics Engineer** and **🎓 B.A. 
 
 ### [📊 LATAM Market Intelligence & Import Analytics](https://github.com/mauroemartinez/Latam_Imports_Market_Intelligence)
 *Market share analysis and KPI visualization for potential importers across Latin America. Designed to identify strategic partners and competitive landscape shifts.*
-* **Stack:** `Power BI`, `DAX`, `Power Query`,`Data Modeling`.
+* **Stack:** `Power BI`, `DAX`, `Power Query`, `Data Modeling`.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/mauroemartinez/Latam_Imports_Market_Intelligence/main/Gif%20Tutorial.gif" alt="LATAM Dashboard Demo" width=85%>
@@ -143,7 +144,7 @@ I am an Argentine **🤖 AI Automation and Analytics Engineer** and **🎓 B.A. 
 </p>
 
 ### [👟 Sports Footwear Sales & Consumer Behavior](https://github.com/mauroemartinez/Sports_Footwear_Sales_and_Consumer_Behavior_Analysis-Technical_Challenge)
-*Technical challenge for a BI Developer position. Integration of Python for automated data ingestion from Kaggle and advanced DAX for trend analysis and moving averages, as well as parameters to allow users to do plenty of axis combinations.*
+*Technical challenge for a BI Developer role. Python ingests the Kaggle data automatically, advanced DAX adds trend analysis and moving averages, and field parameters let users switch chart axes on the fly.*
 * **Stack:** `Python`, `DAX`, `Star Schema`, `Time Intelligence`.
 
 <p align="center">
@@ -179,7 +180,7 @@ I am an Argentine **🤖 AI Automation and Analytics Engineer** and **🎓 B.A. 
 * 🌐 **Website:** [www.globalaize.com](https://www.globalaize.com)
 * 💼 **LinkedIn:** [/in/mauroemartinez](https://www.linkedin.com/in/mauroemartinez/)
 * 📧 **Email:** [mauro@globalaize.com](mailto:mauro@globalaize.com)
-* 📱 **WhatsApp:** [+54 9 11 5990-9647](https://wa.me/5491159909647?text=Hola%20Mauro%2C%20%C2%BFc%C3%B3mo%20est%C3%A1s%3F%20Vi%20tu%20perfil%20de%20+IA+%2B+Comex+en+tu+%20GitHub%20y%20me%20gustar%C3%ADa%20contactarte.)
+* 📱 **WhatsApp:** [+54 9 11 5990-9647](https://wa.me/5491159909647?text=Hola%20Mauro%2C%20%C2%BFc%C3%B3mo%20est%C3%A1s%3F%20Vi%20tu%20perfil%20de%20IA%20%2B%20Comex%20en%20GitHub%20y%20me%20gustar%C3%ADa%20contactarte.)
 * 🌍 **Availability:** Open to 100% Remote (Worldwide) or Relocation.
 * ⚖ **Legal:** Argentine & EU Passport Ready (No sponsorship required for EU-based roles).
 * 📍 **Current Location:** Buenos Aires, Argentina.
@@ -189,7 +190,3 @@ I am an Argentine **🤖 AI Automation and Analytics Engineer** and **🎓 B.A. 
 <p align="center">
   <i>"AI &amp; data to solve global trade problems."</i>
 </p>
-
----
-
-![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fmauroemartinez&label=%F0%9F%8D%AA+Cookies+delivered+to+visitors&color=%23084298&message=&style=plastic&tz=Etc%2FGMT-3)
