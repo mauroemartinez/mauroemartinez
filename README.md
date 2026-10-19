@@ -10,9 +10,25 @@
   <strong>I build AI automations, data pipelines, and BI dashboards for international trade and business operations, turning sourcing, customs, and logistics challenges into measurable business results.</strong>
 </p>
 
-| **10+ AI agents** | **Every 5 minutes** | **7 charts + 9 slides** |
-| :---: | :---: | :---: |
-| Commercial sourcing SaaS | Mercado Libre Q&A cycle | Automated daily macro reporting |
+<table width="100%">
+  <tr>
+    <td align="center" valign="top" width="33%">
+      <h3>🚢 International Commercial Sourcing<br>SaaS Automation</h3>
+      <h2>10+ AI agents</h2>
+      <p>Supplier discovery, negotiation, and landed-cost quotations in a commercial SaaS.</p>
+    </td>
+    <td align="center" valign="top" width="33%">
+      <h3>🤖 Mercado Libre<br>Customer Q&amp;A Automation</h3>
+      <h2>Every 5 minutes</h2>
+      <p>Automated buyer responses, faster response times, and manual answering work eliminated.</p>
+    </td>
+    <td align="center" valign="top" width="33%">
+      <h3>📊 AI-Powered<br>Macroeconomic Reporting</h3>
+      <h2>Scraping + AI analysis</h2>
+      <p>Automated data collection and validation, AI-written analytical paragraphs, and daily delivery of <strong>7 charts + 9 slides</strong>.</p>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <strong>🧭 Quick navigation | Click a section</strong><br>
