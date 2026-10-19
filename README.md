@@ -13,12 +13,12 @@
 <table width="100%">
   <tr>
     <td align="center" valign="top" width="33%">
-      <h3>🚢 International Commercial Sourcing<br>SaaS Automation</h3>
+      <h3>🚢 International Commercial Sourcing<br>24/7 SaaS Automation</h3>
       <h2>10+ AI agents</h2>
       <p>Supplier discovery, negotiation, and landed-cost quotations in a commercial SaaS.</p>
     </td>
     <td align="center" valign="top" width="33%">
-      <h3>🤖 Mercado Libre<br>Customer Q&amp;A Automation</h3>
+      <h3>🤖 Mercado Libre<br>24/7 Customer Q&amp;A Automation</h3>
       <h2>Every 5 minutes</h2>
       <p>Automated buyer responses, faster response times, and manual answering work eliminated.</p>
     </td>
@@ -54,8 +54,8 @@ I am an Argentine **🤖 AI Automation and Analytics Engineer** and **🎓 B.A. 
 
 ## 💪 Key Achievements & Impact
 
-- **Multi-Agent AI Sourcing SaaS:** Built an internal sourcing system and commercialized it as a SaaS offering. Its 10+ AI agents find and negotiate with Asian suppliers, support product classification through RAG, and generate interactive landed-cost quotations. A web app tracks costs and negotiations, targeting a lead-to-quotation cycle under 72 hours.
-- **Mercado Libre Customer Q&A Bot:** Automated buyer-question responses on a five-minute cycle, improving average response times and company visibility on the marketplace while eliminating the manual work previously required to answer those questions.
+- **Multi-Agent AI Sourcing SaaS:** Built an internal sourcing system and commercialized it as a SaaS offering operating **24/7**. Its 10+ AI agents find and negotiate with Asian suppliers, support product classification through RAG, and generate interactive landed-cost quotations. A web app tracks costs and negotiations, targeting a lead-to-quotation cycle under 72 hours.
+- **Mercado Libre Customer Q&A Bot:** Automated buyer-question responses **24/7 on a five-minute cycle**, improving average response times and company visibility on the marketplace while eliminating the manual work previously required to answer those questions.
 - **AI-Powered Macroeconomic Reporting:** Built an unattended pipeline tracking **FX rates, country risk, interest rates, inflation, monetary aggregates, public and private debt, and Bitcoin**. Delivers a daily HTML report with seven charts and a nine-slide executive deck: Python computes the indicators; Gemini writes the commentary. Automated validation, duplicate-run protection, failure alerts, and 260+ offline tests support reliable delivery through Cloudflare Workers and GitHub Actions on free plans.
 - **Self-Service Analytics for Microsoft:** Reduced operational workload for Microsoft's global sales team by deploying a self-service `Power BI` solution, eliminating manual email-based queries (100% English-led role).
 
