@@ -15,7 +15,7 @@
     <td align="center" valign="top" width="33%">
       <h3>🚢 International Commercial Sourcing<br>24/7 SaaS Automation</h3>
       <h2>10+ AI agents</h2>
-      <p>Supplier discovery, negotiation, and landed-cost quotations in a commercial SaaS.</p>
+      <p>Supplier discovery, negotiation, RAG-powered product classification, and landed-cost quotations in a commercial SaaS.</p>
     </td>
     <td align="center" valign="top" width="33%">
       <h3>🤖 Mercado Libre<br>24/7 Customer Q&amp;A Automation</h3>
