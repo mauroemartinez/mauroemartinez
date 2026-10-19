@@ -15,17 +15,17 @@
     <td align="center" valign="top" width="33%">
       <h3><img src="assets/globalaize-logo.jpg" alt="GlobalAIze logo" width="42" style="vertical-align: middle" /> GlobalAIze<br>International Sourcing SaaS | 24/7</h3>
       <h2>10+ AI agents</h2>
-      <p>Supplier discovery, negotiation, RAG-powered product classification, and landed-cost quotations in a commercial SaaS.</p>
+      <p align="left">Supplier discovery, negotiation, RAG-powered product classification, and landed-cost quotations in a commercial SaaS.</p>
     </td>
     <td align="center" valign="top" width="33%">
       <h3>🤖 Mercado Libre<br>24/7 Customer Q&amp;A Automation</h3>
       <h2>Every 5 minutes</h2>
-      <p>Automated buyer responses, faster response times, and manual answering work eliminated.</p>
+      <p align="left">Automated buyer responses, faster response times, and manual answering work eliminated.</p>
     </td>
     <td align="center" valign="top" width="33%">
       <h3>📊 AI-Powered<br>Macroeconomic Reporting</h3>
       <h2>Scraping + AI analysis</h2>
-      <p>Automated data collection and validation, AI-written analytical paragraphs, and daily delivery of <strong>7 charts + 9 slides</strong>.</p>
+      <p align="left">Automated data collection and validation, AI-written analytical paragraphs, and daily delivery of <strong>7 charts + 9 slides</strong>.</p>
     </td>
   </tr>
 </table>
@@ -79,13 +79,61 @@ I am an Argentine **🤖 Data Analytics & AI Automation Engineer** and **🎓 B.
 
 ## 🛠️ Tech Stack
 
-| Category | Tools |
-| :--- | :--- |
-| **Ingestion & ETL** | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white) ![Polars](https://img.shields.io/badge/Polars-%23CD792C.svg?style=for-the-badge&logo=polars&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Power Query](https://img.shields.io/badge/Power_Query-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) |
-| **BI & Viz** | ![Seaborn](https://img.shields.io/badge/Seaborn-4479A1?style=for-the-badge&logo=python&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=matplotlib&logoColor=black) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white) ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white) ![DAX](https://img.shields.io/badge/DAX-%230176D3.svg?style=for-the-badge) |
-| **Storage & Data Ops** | ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) ![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black) |
-| **Automation** | ![n8n](https://img.shields.io/badge/n8n-E92063?style=for-the-badge&logo=n8n&logoColor=white) ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white) ![Selenium](https://img.shields.io/badge/-Selenium-%43B02A?style=for-the-badge&logo=Selenium&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white) ![Cloudflare Workers](https://img.shields.io/badge/Cloudflare_Workers-F38020?style=for-the-badge&logo=cloudflareworkers&logoColor=white) |
-| **AI APIs** | ![Anthropic](https://img.shields.io/badge/Claude_API-CC9B7A?style=for-the-badge&logo=anthropic&logoColor=white) ![OpenAI](https://img.shields.io/badge/ChatGPT_API-412991?style=for-the-badge&logo=openai&logoColor=white) ![Google Gemini](https://img.shields.io/badge/Gemini_API-8E75C2?style=for-the-badge&logo=googlegemini&logoColor=white) ![Retell AI](https://img.shields.io/badge/Retell_AI-1F2937?style=for-the-badge) ![ElevenLabs](https://img.shields.io/badge/ElevenLabs-000000?style=for-the-badge&logo=elevenlabs&logoColor=white) |
+<table>
+  <tr>
+    <th align="center">Category</th>
+    <th align="center">Tools</th>
+  </tr>
+  <tr>
+    <td><b>Ingestion &amp; ETL</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&amp;logo=python&amp;logoColor=ffdd54" alt="Python" />
+      <img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&amp;logo=pydantic&amp;logoColor=white" alt="Pydantic" />
+      <img src="https://img.shields.io/badge/Polars-%23CD792C.svg?style=for-the-badge&amp;logo=polars&amp;logoColor=white" alt="Polars" />
+      <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&amp;logo=pandas&amp;logoColor=white" alt="Pandas" />
+      <img src="https://img.shields.io/badge/Power_Query-F2C811?style=for-the-badge&amp;logo=powerbi&amp;logoColor=black" alt="Power Query" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>BI &amp; Viz</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Seaborn-4479A1?style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="Seaborn" />
+      <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&amp;logo=matplotlib&amp;logoColor=black" alt="Matplotlib" />
+      <img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&amp;logo=powerbi&amp;logoColor=black" alt="Power Bi" />
+      <img src="https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&amp;logo=looker&amp;logoColor=white" alt="Looker Studio" />
+      <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&amp;logo=microsoftexcel&amp;logoColor=white" alt="Excel" />
+      <img src="https://img.shields.io/badge/DAX-%230176D3.svg?style=for-the-badge" alt="DAX" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Storage &amp; Data Ops</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&amp;logo=supabase&amp;logoColor=white" alt="Supabase" />
+      <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&amp;logo=microsoft-sql-server&amp;logoColor=white" alt="SQL Server" />
+      <img src="https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&amp;logo=duckdb&amp;logoColor=black" alt="DuckDB" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Automation</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/n8n-E92063?style=for-the-badge&amp;logo=n8n&amp;logoColor=white" alt="n8n" />
+      <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&amp;logo=playwright&amp;logoColor=white" alt="Playwright" />
+      <img src="https://img.shields.io/badge/-Selenium-%43B02A?style=for-the-badge&amp;logo=Selenium&amp;logoColor=white" alt="Selenium" />
+      <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&amp;logo=github-actions&amp;logoColor=white" alt="GitHub Actions" />
+      <img src="https://img.shields.io/badge/Cloudflare_Workers-F38020?style=for-the-badge&amp;logo=cloudflareworkers&amp;logoColor=white" alt="Cloudflare Workers" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>AI APIs</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Claude_API-CC9B7A?style=for-the-badge&amp;logo=anthropic&amp;logoColor=white" alt="Anthropic" />
+      <img src="https://img.shields.io/badge/ChatGPT_API-412991?style=for-the-badge&amp;logo=openai&amp;logoColor=white" alt="OpenAI" />
+      <img src="https://img.shields.io/badge/Gemini_API-8E75C2?style=for-the-badge&amp;logo=googlegemini&amp;logoColor=white" alt="Google Gemini" />
+      <img src="https://img.shields.io/badge/Retell_AI-1F2937?style=for-the-badge" alt="Retell AI" />
+      <img src="https://img.shields.io/badge/ElevenLabs-000000?style=for-the-badge&amp;logo=elevenlabs&amp;logoColor=white" alt="ElevenLabs" />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -100,26 +148,26 @@ I am an Argentine **🤖 Data Analytics & AI Automation Engineer** and **🎓 B.
   </a>
 </p>
 
-### [🤖 AI-Powered Argentine Macroeconomic Reporting](https://github.com/mauroemartinez/RPA-exchange-rate-scrapping-automatic-mailing)
+### [🤖 AI-Powered Argentine Macroeconomic Reporting](https://github.com/mauroemartinez/RPA-exchange-rate-scraping-automatic-mailing)
 *From market data to executive reporting, without manual compilation. Tracks Argentine FX rates, country risk, BCRA and Federal Reserve interest rates, inflation, monetary aggregates, public and private debt, and Bitcoin. Every business day at 16:00 Argentina time, the pipeline validates and stores the data in Supabase and delivers an HTML email with seven charts plus a nine-slide PowerPoint deck. Python computes the figures; Gemini adds structured commentary. The latest charts and deck are published automatically to the repository.*
 
 * **Reliability:** Concurrent ingestion, schema validation, duplicate-run protection, AI model failover, failure alerts, and a daily completeness check. 260+ offline tests run in CI.
 * **Stack:** `Python`, `Pandas`, `Playwright`, `httpx`, `Pydantic`, `Supabase`, `Gemini API`, `Jinja2`, `Matplotlib`, `Seaborn`, `python-pptx`, `Cloudflare Workers`, `GitHub Actions`, `pytest`.
 <p align="center">
-  <a href="https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2Fmauroemartinez%2FRPA-exchange-rate-scrapping-automatic-mailing%2Freporte-ejecutivo%2FReporte%2520Ejecutivo.pptx">
-    <img src="https://raw.githubusercontent.com/mauroemartinez/RPA-exchange-rate-scrapping-automatic-mailing/main/Assets/Presentacion.jpg" alt="Preview of the nine-slide daily macroeconomic executive deck" width="100%">
+  <a href="https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2Fmauroemartinez%2FRPA-exchange-rate-scraping-automatic-mailing%2Freporte-ejecutivo%2FReporte%2520Ejecutivo.pptx">
+    <img src="https://raw.githubusercontent.com/mauroemartinez/RPA-exchange-rate-scraping-automatic-mailing/main/Assets/Presentacion.jpg" alt="Preview of the nine-slide daily macroeconomic executive deck" width="100%">
   </a>
 </p>
 <p align="center">
   <i>Daily executive deck, built and published automatically by the pipeline.</i><br>
-  <a href="https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2Fmauroemartinez%2FRPA-exchange-rate-scrapping-automatic-mailing%2Freporte-ejecutivo%2FReporte%2520Ejecutivo.pptx"><b>▶️ View today's deck online</b></a>
+  <a href="https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2Fmauroemartinez%2FRPA-exchange-rate-scraping-automatic-mailing%2Freporte-ejecutivo%2FReporte%2520Ejecutivo.pptx"><b>▶️ View today's deck online</b></a>
 </p>
 
 <details>
 <summary><b>View pipeline architecture</b></summary>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mauroemartinez/RPA-exchange-rate-scrapping-automatic-mailing/main/Assets/Architecture.png" alt="Architecture of the automated macroeconomic reporting pipeline" width="100%">
+  <img src="https://raw.githubusercontent.com/mauroemartinez/RPA-exchange-rate-scraping-automatic-mailing/main/Assets/Architecture.png" alt="Architecture of the automated macroeconomic reporting pipeline" width="100%">
 </p>
 
 </details>
