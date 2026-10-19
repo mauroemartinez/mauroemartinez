@@ -47,7 +47,7 @@ I am an Argentine **🤖 AI Automation and Analytics Engineer** and **🎓 B.A. 
 
 * **Advanced English:** Extensive experience leading international negotiations and collaborating with multicultural teams (USA, China, India, Malaysia, Brazil).
 * **Native Spanish:** Born and raised in Argentina.
-* **Basic Chinese:** Began learning in 2018; applied to technical documentation interpretation and building commercial trust.
+* **Basic Chinese:** Began learning in 2018; applied to technical documentation and commercial relationships.
 * **EU Citizen:** Open to Remote/Relocation opportunities.
 
 <p align="center">

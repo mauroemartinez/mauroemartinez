@@ -1,14 +1,21 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="230" viewBox="0 0 1000 230" role="img" aria-labelledby="title desc">
-  <title id="title">From international trade to AI automation</title>
-  <desc id="desc">2018: International Trade student and Import Analyst; began learning Chinese. 2024: graduated with a B.A. in International Trade. Today: building AI automation, analytics, and a commercial sourcing SaaS.</desc>
-  <rect width="1000" height="230" rx="16" fill="#07172f"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="1060" height="375" viewBox="0 0 1060 375" role="img" aria-labelledby="title desc">
+  <title id="title">Mauro Martinez's career in international trade, analytics, and AI</title>
+  <desc id="desc">2018: Worked as an Import Analyst while studying International Trade and began learning Chinese. 2022: Commercial Business Intelligence at B&amp;B Consultora. 2023: Trade analytics at Proa Latam and founded GlobalAIze. 2024: Graduated in International Trade and joined Launch Consulting as a remote Data Analyst supporting Microsoft. 2026: Joined SLS Global to lead AI and trade automation.</desc>
+  <rect width="1060" height="375" rx="18" fill="#07172f"/>
   <g font-family="Segoe UI,Arial,sans-serif">
-    <text x="32" y="36" fill="#f0f6fc" font-size="20" font-weight="600">From international trade to AI automation</text>
-    <path d="M60 78H940" stroke="#24465d" stroke-width="3"/>
-    <path d="M60 78H660" stroke="#20b0d0" stroke-width="3"/>
-    <g fill="#20b0d0"><circle cx="60" cy="78" r="7"/><circle cx="360" cy="78" r="7"/><circle cx="660" cy="78" r="7"/></g>
-    <g fill="#59d6ef" font-size="24" font-weight="700"><text x="40" y="122">2018</text><text x="340" y="122">2024</text><text x="640" y="122">Today</text></g>
-    <g fill="#f0f6fc" font-size="17" font-weight="600"><text x="40" y="154">International Trade student</text><text x="340" y="154">B.A. in International Trade</text><text x="640" y="154">AI automation &amp; analytics</text></g>
-    <g fill="#b8c9d9" font-size="16"><text x="40" y="181">Working as an Import Analyst</text><text x="40" y="205">Began learning Chinese</text><text x="340" y="181">Graduated</text><text x="640" y="181">Building commercial sourcing SaaS</text><text x="640" y="205">Turning trade experience into products</text></g>
+    <text x="32" y="39" fill="#f0f6fc" font-size="21" font-weight="600">A career connecting global trade, analytics &amp; AI</text>
+    <path d="M112 82H948" stroke="#20b0d0" stroke-width="3"/>
+    <g fill="#20b0d0" stroke="#07172f" stroke-width="4"><circle cx="112" cy="82" r="8"/><circle cx="321" cy="82" r="8"/><circle cx="530" cy="82" r="8"/><circle cx="739" cy="82" r="8"/><circle cx="948" cy="82" r="8"/></g>
+    <g fill="#59d6ef" font-size="22" font-weight="700" text-anchor="middle"><text x="112" y="119">2018</text><text x="321" y="119">2022</text><text x="530" y="119">2023</text><text x="739" y="119">2024–25</text><text x="948" y="119">2026–now</text></g>
+    <g fill="#102a43" stroke="#24465d"><rect x="28" y="137" width="168" height="202" rx="12"/><rect x="237" y="137" width="168" height="202" rx="12"/><rect x="446" y="137" width="168" height="202" rx="12"/><rect x="655" y="137" width="168" height="202" rx="12"/><rect x="864" y="137" width="168" height="202" rx="12"/></g>
+    <g fill="#f0f6fc" font-size="16" font-weight="700"><text x="44" y="166">COMEX + STUDIES</text><text x="253" y="166">COMMERCIAL BI</text><text x="462" y="166">TRADE ANALYTICS</text><text x="671" y="166">DEGREE + MICROSOFT</text><text x="880" y="166">AI + COMEX</text></g>
+    <g fill="#b8c9d9" font-size="14">
+      <text x="44" y="195"><tspan x="44" dy="0">Import Analyst while</tspan><tspan x="44" dy="20">studying International</tspan><tspan x="44" dy="20">Trade at UNLaM.</tspan><tspan x="44" dy="26">Started learning</tspan><tspan x="44" dy="20">Chinese.</tspan></text>
+      <text x="253" y="195"><tspan x="253" dy="0">B&amp;B Consultora</tspan><tspan x="253" dy="20">Turned trade data into</tspan><tspan x="253" dy="20">a client-facing BI</tspan><tspan x="253" dy="20">service and automated</tspan><tspan x="253" dy="20">reporting.</tspan></text>
+      <text x="462" y="195"><tspan x="462" dy="0">Proa Latam</tspan><tspan x="462" dy="20">Analytics for global</tspan><tspan x="462" dy="20">trade and expansion.</tspan><tspan x="462" dy="26">Founded GlobalAIze:</tspan><tspan x="462" dy="20">data and automation</tspan><tspan x="462" dy="20">solutions for business.</tspan></text>
+      <text x="671" y="195"><tspan x="671" dy="0">Graduated in</tspan><tspan x="671" dy="20">International Trade.</tspan><tspan x="671" dy="26">Launch Consulting</tspan><tspan x="671" dy="20">Data Analyst supporting</tspan><tspan x="671" dy="20">Microsoft, in a fully</tspan><tspan x="671" dy="20">English-speaking role.</tspan></text>
+      <text x="880" y="195"><tspan x="880" dy="0">SLS Global</tspan><tspan x="880" dy="20">AI automation for</tspan><tspan x="880" dy="20">international trade.</tspan><tspan x="880" dy="26">Building production</tspan><tspan x="880" dy="20">workflows and a RAG-</tspan><tspan x="880" dy="20">powered sourcing engine.</tspan></text>
+    </g>
+    <text x="32" y="360" fill="#59d6ef" font-size="13">GlobalAIze continues alongside my roles — building analytics and AI products for international business.</text>
   </g>
 </svg>
