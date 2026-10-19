@@ -148,7 +148,7 @@ I am an Argentine **🤖 Data Analytics & AI Automation Engineer** and **🎓 B.
   </a>
 </p>
 
-### [🤖 AI-Powered Argentine Macroeconomic Reporting](https://github.com/mauroemartinez/RPA-exchange-rate-scraping-automatic-mailing)
+### [🤖 AI-Powered Argentine Macroeconomic Automating Mailing and Reporting System](https://github.com/mauroemartinez/RPA-exchange-rate-scraping-automatic-mailing)
 *From market data to executive reporting, without manual compilation. Tracks Argentine FX rates, country risk, BCRA and Federal Reserve interest rates, inflation, monetary aggregates, public and private debt, and Bitcoin. Every business day at 16:00 Argentina time, the pipeline validates and stores the data in Supabase and delivers an HTML email with seven charts plus a nine-slide PowerPoint deck. Python computes the figures; Gemini adds structured commentary. The latest charts and deck are published automatically to the repository.*
 
 * **Reliability:** Concurrent ingestion, schema validation, duplicate-run protection, AI model failover, failure alerts, and a daily completeness check. 260+ offline tests run in CI.
