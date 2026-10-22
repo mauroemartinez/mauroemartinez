@@ -51,7 +51,7 @@ I am an Argentine **🤖 Data Analytics & AI Automation Engineer** and **🎓 B.
 * **EU Citizen:** Open to Remote/Relocation opportunities.
 
 <p align="center">
-  <img src="assets/career-timeline.svg?v=3" alt="Career timeline. 2018: International Trade Assistant at Industrias De Pascale. 2021: International Trade Analyst at Coteminas Argentina, starting in data analytics. 2022: Commercial BI Analyst at B&amp;B Consultora. 2023: founded GlobalAIze, with clients including Proa Latam. 2024: Data Analyst for Microsoft at Launch Consulting Group and B.A. in International Trade from UNLaM. 2026: International Trade &amp; AI Automation at SLS Global." width="100%" /><br>
+  <img src="assets/career-timeline.svg?v=4" alt="Career timeline. 2018: International Trade Assistant at Industrias De Pascale. 2021: International Trade Analyst at Coteminas Argentina, starting in data analytics. 2022: Commercial BI Analyst at B&amp;B Consultora. 2023: founded GlobalAIze, with clients including Proa Latam. 2024: Data Analyst for Microsoft at Launch Consulting Group and B.A. in International Trade from UNLaM. 2026: International Trade &amp; AI Automation at SLS Global." width="100%" /><br>
   <sub>Logos are trademarks of their respective owners, shown only to identify employers, clients and education. No endorsement is implied.</sub>
 </p>
 
@@ -69,7 +69,7 @@ I am an Argentine **🤖 Data Analytics & AI Automation Engineer** and **🎓 B.
 <summary><b>More achievements & business impact</b></summary>
 
 - **Process Automation:** Eliminated 100% of manual errors in customs declarations by replacing legacy workflows with an automated `Power Query` ETL pipeline, cutting task time by 90%.
-- **Cost Efficiency:** Achieved a 50% reduction in FOB costs for a key product line through data-driven competitor benchmarking and supplier development.
+- **Cost Efficiency:** Achieved a 50% reduction in FOB costs for a key product line through data-driven competitor benchmarking and supplier development, with better quality and packaging than the previous supplier.
 - **Supply Chain Optimization:** Identified critical bottlenecks in international logistics by merging multiple data sources and visualizing insights with `Power BI`, enabling real-time decision-making.
 - **Department Foundations:** Built the Analytics unit from scratch for an international trade consultancy, delivering client-facing services plus cross-functional support to Finance, C-Level, HR, International Trade, Logistics, and Sales.
 
@@ -148,11 +148,12 @@ I am an Argentine **🤖 Data Analytics & AI Automation Engineer** and **🎓 B.
   </a>
 </p>
 
-### [🤖 AI-Powered Argentine Macroeconomic Automating Mailing and Reporting System](https://github.com/mauroemartinez/RPA-exchange-rate-scraping-automatic-mailing)
+### [🤖 AI-Powered Argentine Macroeconomic Reporting & Mailing Automation](https://github.com/mauroemartinez/RPA-exchange-rate-scraping-automatic-mailing)
 *From market data to executive reporting, without manual compilation. Tracks Argentine FX rates, country risk, BCRA and Federal Reserve interest rates, inflation, monetary aggregates, public and private debt, and Bitcoin. Every business day at 16:00 Argentina time, the pipeline validates and stores the data in Supabase and delivers an HTML email with seven charts plus a nine-slide PowerPoint deck. Python computes the figures; Gemini adds structured commentary. The latest charts and deck are published automatically to the repository.*
 
 * **Reliability:** Concurrent ingestion, schema validation, duplicate-run protection, AI model failover, failure alerts, and a daily completeness check. 260+ offline tests run in CI.
 * **Stack:** `Python`, `Pandas`, `Playwright`, `httpx`, `Pydantic`, `Supabase`, `Gemini API`, `Jinja2`, `Matplotlib`, `Seaborn`, `python-pptx`, `Cloudflare Workers`, `GitHub Actions`, `pytest`.
+* **Open source (Apache 2.0):** The full source code is public, so anyone can replicate the pipeline with their own keys (see `.env.example`) on free plans.
 <p align="center">
   <a href="https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2Fmauroemartinez%2FRPA-exchange-rate-scraping-automatic-mailing%2Freporte-ejecutivo%2FReporte%2520Ejecutivo.pptx">
     <img src="https://raw.githubusercontent.com/mauroemartinez/RPA-exchange-rate-scraping-automatic-mailing/main/Assets/Presentacion.jpg" alt="Preview of the nine-slide daily macroeconomic executive deck" width="100%">
