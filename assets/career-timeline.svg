@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="528" viewBox="0 0 1200 528" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="547" viewBox="0 0 1200 547" role="img" aria-labelledby="title desc">
   <title id="title">Mauro Martinez career timeline: from running international trade operations to automating them with AI</title>
   <desc id="desc">2018: International Trade Assistant at Industrias De Pascale (Aug 2018 - Feb 2021). 2021: International Trade Analyst at Coteminas Argentina (Mar 2021 - Sep 2022). Jun 2021: started in data analytics. 2022: Commercial BI Analyst at B&amp;B Consultora (Sep 2022 - Oct 2024). 2023: Founder &amp; AI Engineer at GlobalAIze (Sep 2023 - Present). 2024: Data Analyst for Microsoft at Launch Consulting Group (Oct 2024 - Aug 2025). Nov 2024: B.A. in International Trade, UNLaM. 2026: International Trade &amp; AI Automation at SLS Global (May 2026 - Present).</desc>
   <defs>
@@ -12,7 +12,7 @@
     <clipPath id="tile-unlam"><rect x="928.5" y="74" width="58" height="58" rx="12"/></clipPath>
     <clipPath id="tile-sls"><rect x="1056.8" y="74" width="58" height="58" rx="12"/></clipPath>
   </defs>
-  <rect width="1200" height="528" rx="18" fill="#07172f"/>
+  <rect width="1200" height="547" rx="18" fill="#07172f"/>
   <g font-family="Segoe UI,system-ui,-apple-system,Helvetica,Arial,sans-serif">
     <text x="32" y="44" fill="#f0f6fc" font-size="22" font-weight="600">From running international trade operations to automating them with AI</text>
     <rect x="85.2" y="74" width="58" height="58" rx="12" fill="#ffffff"/>
@@ -55,39 +55,39 @@
     <path d="M1085.8 158H1192" stroke="url(#fade)" stroke-width="3"/>
     <g fill="#20b0d0" stroke="#07172f" stroke-width="4"><circle cx="114.2" cy="158" r="8"/><circle cx="308.5" cy="158" r="8"/><circle cx="502.8" cy="158" r="8"/><circle cx="697.2" cy="158" r="8"/><circle cx="891.5" cy="158" r="8"/><circle cx="1085.8" cy="158" r="8"/></g>
     <g fill="#59d6ef" font-size="24" font-weight="700" text-anchor="middle"><text x="114.2" y="196">2018</text><text x="308.5" y="196">2021</text><text x="502.8" y="196">2022</text><text x="697.2" y="196">2023</text><text x="891.5" y="196">2024</text><text x="1085.8" y="196">2026</text></g>
-    <rect x="24.0" y="214" width="180.3" height="288" rx="12" fill="#102a43" stroke="#24465d"/>
+    <rect x="24.0" y="214" width="180.3" height="307" rx="12" fill="#102a43" stroke="#24465d"/>
     <text fill="#f0f6fc" font-size="15.5" font-weight="700"><tspan x="39.0" y="244.5">International Trade</tspan><tspan x="39.0" y="264.5">Assistant</tspan></text>
     <text x="39.0" y="295.0" fill="#59d6ef" font-size="13.5" font-weight="600">Industrias De Pascale</text>
     <text x="39.0" y="313.0" fill="#8aa4bd" font-size="12.5">Aug 2018 - Feb 2021</text>
     <path d="M39.0 323.0H189.3" stroke="#24465d"/>
-    <text fill="#b8c9d9" font-size="13.5"><tspan x="39.0" y="344.5">Cut the FOB cost of a</tspan><tspan x="39.0" y="363.5">key product by 50% with</tspan><tspan x="39.0" y="382.5">a new supplier that also</tspan><tspan x="39.0" y="401.5">improved quality and</tspan><tspan x="39.0" y="420.5">packaging. Started</tspan><tspan x="39.0" y="439.5">learning Chinese.</tspan></text>
-    <rect x="218.3" y="214" width="180.3" height="288" rx="12" fill="#102a43" stroke="#24465d"/>
+    <text fill="#b8c9d9" font-size="13.5"><tspan x="39.0" y="344.5">Cut the FOB cost of a</tspan><tspan x="39.0" y="363.5">key product by 50% with</tspan><tspan x="39.0" y="382.5">a new supplier that also</tspan><tspan x="39.0" y="401.5">improved quality. Started</tspan><tspan x="39.0" y="420.5">learning Chinese.</tspan></text>
+    <rect x="218.3" y="214" width="180.3" height="307" rx="12" fill="#102a43" stroke="#24465d"/>
     <text fill="#f0f6fc" font-size="15.5" font-weight="700"><tspan x="233.3" y="244.5">International Trade</tspan><tspan x="233.3" y="264.5">Analyst</tspan></text>
     <text x="233.3" y="295.0" fill="#59d6ef" font-size="13.5" font-weight="600">Coteminas Argentina</text>
     <text x="233.3" y="313.0" fill="#8aa4bd" font-size="12.5">Mar 2021 - Sep 2022</text>
     <path d="M233.3 323.0H383.7" stroke="#24465d"/>
-    <text fill="#b8c9d9" font-size="13.5"><tspan x="233.3" y="344.5">Ran the import supply</tspan><tspan x="233.3" y="363.5">chain for a textile</tspan><tspan x="233.3" y="382.5">multinational. A Power</tspan><tspan x="233.3" y="401.5">Query ETL ended</tspan><tspan x="233.3" y="420.5">declaration errors and</tspan><tspan x="233.3" y="439.5">made filing 90% faster.</tspan></text>
-    <text fill="#59d6ef" font-size="13" font-weight="700"><tspan x="233.3" y="468.0">Jun 2021: started in</tspan><tspan x="233.3" y="486.0">data analytics</tspan></text>
-    <rect x="412.7" y="214" width="180.3" height="288" rx="12" fill="#102a43" stroke="#24465d"/>
+    <text fill="#b8c9d9" font-size="13.5"><tspan x="233.3" y="344.5">Ran the import supply</tspan><tspan x="233.3" y="363.5">chain for a textile</tspan><tspan x="233.3" y="382.5">multinational. A Power</tspan><tspan x="233.3" y="401.5">Query ETL cut</tspan><tspan x="233.3" y="420.5">declaration errors to</tspan><tspan x="233.3" y="439.5">zero and made filing</tspan><tspan x="233.3" y="458.5">90% faster.</tspan></text>
+    <text fill="#59d6ef" font-size="13" font-weight="700"><tspan x="233.3" y="487.0">Jun 2021: started in</tspan><tspan x="233.3" y="505.0">data analytics</tspan></text>
+    <rect x="412.7" y="214" width="180.3" height="307" rx="12" fill="#102a43" stroke="#24465d"/>
     <text fill="#f0f6fc" font-size="15.5" font-weight="700"><tspan x="427.7" y="244.5">Commercial BI</tspan><tspan x="427.7" y="264.5">Analyst</tspan></text>
     <text x="427.7" y="295.0" fill="#59d6ef" font-size="13.5" font-weight="600">B&amp;B Consultora</text>
     <text x="427.7" y="313.0" fill="#8aa4bd" font-size="12.5">Sep 2022 - Oct 2024</text>
     <path d="M427.7 323.0H578.0" stroke="#24465d"/>
     <text fill="#b8c9d9" font-size="13.5"><tspan x="427.7" y="344.5">Turned trade data into a</tspan><tspan x="427.7" y="363.5">BI service clients paid</tspan><tspan x="427.7" y="382.5">for. Automated reporting</tspan><tspan x="427.7" y="401.5">cut refresh time by 90%.</tspan></text>
-    <rect x="607.0" y="214" width="180.3" height="288" rx="12" fill="#102a43" stroke="#24465d"/>
+    <rect x="607.0" y="214" width="180.3" height="307" rx="12" fill="#102a43" stroke="#24465d"/>
     <text fill="#f0f6fc" font-size="15.5" font-weight="700"><tspan x="622.0" y="244.5">Founder &amp; AI</tspan><tspan x="622.0" y="264.5">Engineer</tspan></text>
     <text x="622.0" y="295.0" fill="#59d6ef" font-size="13.5" font-weight="600">GlobalAIze</text>
     <text x="622.0" y="313.0" fill="#8aa4bd" font-size="12.5">Sep 2023 - Present</text>
     <path d="M622.0 323.0H772.3" stroke="#24465d"/>
     <text fill="#b8c9d9" font-size="13.5"><tspan x="622.0" y="344.5">Custom AI automation</tspan><tspan x="622.0" y="363.5">and BI for trade</tspan><tspan x="622.0" y="382.5">companies in Europe,</tspan><tspan x="622.0" y="401.5">the US and LATAM.</tspan><tspan x="622.0" y="420.5">Clients include Proa</tspan><tspan x="622.0" y="439.5">Latam, Italy.</tspan></text>
-    <rect x="801.3" y="214" width="180.3" height="288" rx="12" fill="#102a43" stroke="#24465d"/>
+    <rect x="801.3" y="214" width="180.3" height="307" rx="12" fill="#102a43" stroke="#24465d"/>
     <text fill="#f0f6fc" font-size="15.5" font-weight="700"><tspan x="816.3" y="244.5">Data Analyst for</tspan><tspan x="816.3" y="264.5">Microsoft</tspan></text>
     <text x="816.3" y="295.0" fill="#59d6ef" font-size="13.5" font-weight="600">Launch Consulting Group</text>
     <text x="816.3" y="313.0" fill="#8aa4bd" font-size="12.5">Oct 2024 - Aug 2025</text>
     <path d="M816.3 323.0H966.7" stroke="#24465d"/>
     <text fill="#b8c9d9" font-size="13.5"><tspan x="816.3" y="344.5">Built self-service Power</tspan><tspan x="816.3" y="363.5">BI for Microsoft&#x27;s global</tspan><tspan x="816.3" y="382.5">sales team, in a 100%</tspan><tspan x="816.3" y="401.5">English role.</tspan></text>
     <text fill="#59d6ef" font-size="13" font-weight="700"><tspan x="816.3" y="430.0">Nov 2024: B.A. in</tspan><tspan x="816.3" y="448.0">International Trade,</tspan><tspan x="816.3" y="466.0">UNLaM</tspan></text>
-    <rect x="995.7" y="214" width="180.3" height="288" rx="12" fill="#102a43" stroke="#24465d"/>
+    <rect x="995.7" y="214" width="180.3" height="307" rx="12" fill="#102a43" stroke="#24465d"/>
     <text fill="#f0f6fc" font-size="15.5" font-weight="700"><tspan x="1010.7" y="244.5">International Trade</tspan><tspan x="1010.7" y="264.5">&amp; AI Automation</tspan></text>
     <text x="1010.7" y="295.0" fill="#59d6ef" font-size="13.5" font-weight="600">SLS Global</text>
     <text x="1010.7" y="313.0" fill="#8aa4bd" font-size="12.5">May 2026 - Present</text>
