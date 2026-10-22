@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/profile-banner.svg?v=5" alt="Mauro Martinez: AI automation, analytics and global trade. n8n | Python | Power BI | SQL | Excel. Argentina and EU citizen. AI and data to solve global trade problems." width="100%" />
+  <img src="assets/profile-banner.svg?v=6" alt="Mauro Martinez: AI automation, analytics and global trade. n8n | Python | Power BI | SQL | Excel. Argentina and EU citizen. AI and data to solve global trade problems." width="100%" />
 </p>
 
 <p align="center">
@@ -51,7 +51,7 @@ I am an Argentine **🤖 Data Analytics & AI Automation Engineer** and **🎓 B.
 * **EU Citizen:** Open to Remote/Relocation opportunities.
 
 <p align="center">
-  <img src="assets/career-timeline.svg?v=6" alt="Career timeline. 2018: International Trade Assistant at Industrias De Pascale. 2021: International Trade Analyst at Coteminas Argentina, starting in data analytics. 2022: Commercial BI Analyst at B&amp;B Consultora. 2023: founded GlobalAIze, with clients including Proa Latam. 2024: Data Analyst for Microsoft at Launch Consulting Group and B.A. in International Trade from UNLaM. 2026: International Trade &amp; AI Automation at SLS Global." width="100%" /><br>
+  <img src="assets/career-timeline.svg?v=7" alt="Career timeline. 2018: International Trade Assistant at Industrias De Pascale. 2021: International Trade Analyst at Coteminas Argentina, starting in data analytics. 2022: Commercial BI Analyst at B&amp;B Consultora. 2023: founded GlobalAIze, with clients including Proa Latam. 2024: Data Analyst for Microsoft at Launch Consulting Group and B.A. in International Trade from UNLaM. 2026: International Trade &amp; AI Automation at SLS Global." width="100%" /><br>
   <sub>Logos are trademarks of their respective owners, shown only to identify employers, clients and education. No endorsement is implied.</sub>
 </p>
 
@@ -223,7 +223,7 @@ I am an Argentine **🤖 Data Analytics & AI Automation Engineer** and **🎓 B.
 
 ## 📫 Let's get in Touch
 
-<a href="https://www.globalaize.com"><img align="right" src="assets/globalaize-logo.jpg" alt="GlobalAIze | Go Global with AI" width="100" /></a>
+<a href="https://www.globalaize.com"><img align="right" src="assets/globalaize-logo.svg" alt="GlobalAIze logo" width="96" /></a>
 
 * 🌐 **Website:** [www.globalaize.com](https://www.globalaize.com)
 * 💼 **LinkedIn:** [/in/mauroemartinez](https://www.linkedin.com/in/mauroemartinez/)
