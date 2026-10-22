@@ -24,8 +24,8 @@
     </td>
     <td align="center" valign="top" width="33%">
       <h3>📊 AI-Powered<br>Macroeconomic Reporting</h3>
-      <h2>Scraping + AI analysis</h2>
-      <p align="left">Automated data collection and validation, AI-written analytical paragraphs, and daily delivery of <strong>7 charts + 9 slides</strong>.</p>
+      <h2>Runs itself in the cloud</h2>
+      <p align="left">Every business day it scrapes and validates the data, writes the analysis with AI, and emails <strong>7 charts + 9 slides</strong> automatically. Serverless, with no manual steps.</p>
     </td>
   </tr>
 </table>
@@ -62,7 +62,7 @@ I am an Argentine **🤖 Data Analytics & AI Automation Engineer** and **🎓 B.
 - **Multi-Agent AI Sourcing SaaS:** Built an internal sourcing system and commercialized it as a SaaS offering operating **24/7**. Its 10+ AI agents find and negotiate with Asian suppliers, support product classification through RAG, and generate interactive landed-cost quotations, while a web app tracks costs and negotiations. From June to October 2026 it contacted **2,226 Chinese suppliers** across 2,880 chats and secured **849 quotations** from 765 of them. AI wrote 35,807 of the 35,841 negotiation messages (**99.9%**) with **running costs under USD 1 per quotation**, replacing about **1,500 hours** of manual work: 2.4 full-time people for four months.
 - **Mercado Libre Customer Q&A Bot:** Automated buyer-question responses **24/7 on a five-minute cycle**, with **96% of questions answered without human intervention**. Average response times and the company's visibility on the marketplace improved, and the team now answers only the remaining 4% by hand.
 - **AI Voice Agents:** Built voice agents on `Retell` with `ElevenLabs` voices, orchestrated through `n8n` and connected to business tools for stock checks, calendar booking, and general inquiries.
-- **AI-Powered Macroeconomic Reporting:** Built an unattended pipeline tracking **FX rates, country risk, interest rates, inflation, monetary aggregates, public and private debt, and Bitcoin**. Delivers a daily HTML report with seven charts and a nine-slide executive deck: Python computes the indicators; Gemini writes the commentary. Automated validation, duplicate-run protection, failure alerts, and 260+ offline tests support reliable delivery through Cloudflare Workers and GitHub Actions on free plans.
+- **AI-Powered Macroeconomic Reporting:** Built a **fully automated, cloud-hosted pipeline** tracking **FX rates, country risk, interest rates, inflation, monetary aggregates, public and private debt, and Bitcoin**. Every business day it **emails an HTML report on its own**, with seven charts and a nine-slide executive deck: Python computes the indicators; Gemini writes the commentary. A Cloudflare Worker triggers each run on GitHub Actions, both on free plans, while automated validation, duplicate-run protection, failure alerts, and 260+ offline tests keep delivery reliable.
 - **Self-Service Analytics for Microsoft:** Reduced operational workload for Microsoft's global sales team by deploying a self-service `Power BI` solution, eliminating manual email-based queries (100% English-led role).
 
 <details>
