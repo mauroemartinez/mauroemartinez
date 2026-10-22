@@ -13,9 +13,9 @@
 <table width="100%">
   <tr>
     <td align="center" valign="top" width="33%">
-      <h3><img src="assets/globalaize-logo.jpg" alt="GlobalAIze logo" width="42" style="vertical-align: middle" /> GlobalAIze<br>International Sourcing SaaS | 24/7</h3>
-      <h2>10+ AI agents</h2>
-      <p align="left">Supplier discovery, negotiation, RAG-powered product classification, and landed-cost quotations in a commercial SaaS.</p>
+      <h3>🚢 GlobalAIze<br>International Sourcing SaaS | 24/7</h3>
+      <h2>849 quotes in 4 months</h2>
+      <p align="left">10+ AI agents contacted 2,226 Alibaba suppliers and ran 99.9% of the negotiation on their own, with running costs under USD 1 per quote.</p>
     </td>
     <td align="center" valign="top" width="33%">
       <h3>🤖 Mercado Libre<br>24/7 Customer Q&amp;A Automation</h3>
@@ -59,7 +59,7 @@ I am an Argentine **🤖 Data Analytics & AI Automation Engineer** and **🎓 B.
 
 ## 💪 Key Achievements & Impact
 
-- **Multi-Agent AI Sourcing SaaS:** Built an internal sourcing system and commercialized it as a SaaS offering operating **24/7**. Its 10+ AI agents find and negotiate with Asian suppliers, support product classification through RAG, and generate interactive landed-cost quotations. A web app tracks costs and negotiations, targeting a lead-to-quotation cycle under 72 hours.
+- **Multi-Agent AI Sourcing SaaS:** Built an internal sourcing system and commercialized it as a SaaS offering operating **24/7**. Its 10+ AI agents find and negotiate with Asian suppliers, support product classification through RAG, and generate interactive landed-cost quotations, while a web app tracks costs and negotiations. From June to October 2026 it contacted **2,226 suppliers** in 2,880 Alibaba chats and secured **849 quotations** from 765 of them. AI wrote 35,807 of the 35,841 negotiation messages (**99.9%**) with **running costs under USD 1 per quotation**, replacing about **1,500 hours** of manual work: 2.4 full-time people for four months.
 - **Mercado Libre Customer Q&A Bot:** Automated buyer-question responses **24/7 on a five-minute cycle**, improving average response times and company visibility on the marketplace while eliminating the manual work previously required to answer those questions.
 - **AI Voice Agents:** Built voice agents on `Retell` with `ElevenLabs` voices, orchestrated through `n8n` and connected to business tools for stock checks, calendar booking, and general inquiries.
 - **AI-Powered Macroeconomic Reporting:** Built an unattended pipeline tracking **FX rates, country risk, interest rates, inflation, monetary aggregates, public and private debt, and Bitcoin**. Delivers a daily HTML report with seven charts and a nine-slide executive deck: Python computes the indicators; Gemini writes the commentary. Automated validation, duplicate-run protection, failure alerts, and 260+ offline tests support reliable delivery through Cloudflare Workers and GitHub Actions on free plans.
