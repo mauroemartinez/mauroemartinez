@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&amp;size=24&amp;pause=1800&amp;color=59D6EF&amp;center=true&amp;vCenter=true&amp;width=1000&amp;height=44&amp;lines=%F0%9F%A4%96+Data+Analytics+%26+AI+Automation+Engineer+%F0%9F%93%88;%F0%9F%9A%A2+B.A.+in+International+Trade+%F0%9F%8E%93" alt="🤖 Data Analytics &amp; AI Automation Engineer 📈 | 🚢 B.A. in International Trade 🎓" width="100%" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&amp;size=24&amp;duration=1620&amp;pause=1600&amp;color=59D6EF&amp;center=true&amp;vCenter=true&amp;width=1000&amp;height=44&amp;lines=%F0%9F%A4%96+Data+Analytics+%26+AI+Automation+Engineer+%F0%9F%93%88;%F0%9F%9A%A2+B.A.+in+International+Trade+%F0%9F%8E%93" alt="🤖 Data Analytics &amp; AI Automation Engineer 📈 | 🚢 B.A. in International Trade 🎓" width="100%" />
 </p>
 
 <p align="left">
@@ -15,7 +15,7 @@
     <td align="center" valign="top" width="33%">
       <h3>🚢 GlobalAIze<br>International Sourcing SaaS | 24/7</h3>
       <h2>~220 quotes a month</h2>
-      <p align="left">10+ AI agents contact about 570 Chinese suppliers a month, write 99.9% of the messages and get prices 11% below list, with running costs under USD 1 per quote.</p>
+      <p align="left">10+ AI agents contact about 570 Chinese suppliers a month, write 99.9% of the messages and get prices 11% below list, with AI costs under USD 0.10 per quote.</p>
     </td>
     <td align="center" valign="top" width="33%">
       <h3>🤖 Mercado Libre<br>24/7 Customer Q&amp;A Automation</h3>
@@ -59,15 +59,16 @@ I am an Argentine **🤖 Data Analytics & AI Automation Engineer** and **🎓 B.
 
 ## 💪 Key Achievements & Impact
 
-- **Multi-Agent AI Sourcing SaaS:** Built an internal sourcing system and commercialized it as a SaaS offering operating **24/7**. Its 10+ AI agents find and negotiate with Chinese suppliers, support product classification through RAG, and generate interactive landed-cost quotations, while a web app and dashboard track key metrics, including costs. Since June 2026 it has contacted **about 570 suppliers and secured about 220 quotations a month**, at a median price **11% below the supplier's own listed price**. AI writes **99.9%** of the negotiation messages, 71% of them outside Argentine business hours while China is at work, with **running costs under USD 1 per quotation**: the work of more than two people for about 10% of the cost of one employee in Latin America (estimate).
-- **Mercado Libre Customer Q&A Bot:** Answers buyer questions **24/7**, checking every five minutes, with **97% answered without human intervention** and a median response time of **10 minutes**. 51% of questions arrive at night or on weekends and still get answered. It costs **95.8% less than the previous tool**, about USD 2 a month in AI, and a dashboard tracks its key metrics, including costs.
-- **AI Voice Agents:** Built voice agents on `Retell` with `ElevenLabs` voices, orchestrated through `n8n` and connected to business tools for stock checks, calendar booking, and general inquiries.
+- **Multi-Agent AI Sourcing SaaS:** Built an internal sourcing system and commercialized it as a SaaS offering operating **24/7**. Its 10+ AI agents find and negotiate with Chinese suppliers, support product classification through RAG, and generate interactive landed-cost quotations, while a web app and dashboard track key metrics, including costs. Since June 2026 it has contacted **about 570 suppliers and secured about 220 quotations a month**, at a median price **11% below the supplier's own listed price**. AI writes **99.9%** of the negotiation messages, 71% of them outside Argentine business hours while China is at work, with **AI costs under USD 0.10 per quotation**: the work of more than two people for under 2% of the cost of one entry-level employee in Argentina (estimate).
+- **Mercado Libre Customer Q&A Bot:** Answers buyer questions **24/7**, checking every five minutes, with **97% answered without human intervention** and a median response time of **10 minutes**. 51% of questions arrive at night or on weekends and still get answered. It costs **95.8% less than the previous tool**, under USD 0.50 a month in AI, and a dashboard tracks its key metrics, including costs.
+- **AI Cost Optimization:** Cut the monthly AI spend of the international negotiation agents by **96%** by optimizing model usage, splitting agents into modules and adding validation controls, while keeping **95%+ hand-reviewed accuracy** and fixing errors the previous setup made in production. A simple, customizable presentation builder in the web app also replaced AI-generated presentations, cutting that cost to almost zero.
 - **AI-Powered Macroeconomic Reporting:** Built a **fully automated, cloud-hosted pipeline** tracking **FX rates, country risk, interest rates, inflation, monetary aggregates, public and private debt, and Bitcoin**. Every business day it emails seven charts with AI conclusions and a nine-slide executive deck, **with no human intervention and zero running cost**: Python computes the indicators; Gemini writes the conclusions. A Cloudflare Worker triggers each run on GitHub Actions, both on free plans, while automated validation, duplicate-run protection, failure alerts, and 260+ offline tests keep delivery reliable.
 - **Self-Service Analytics for Microsoft:** Reduced operational workload for Microsoft's global sales team by deploying a self-service `Power BI` solution, eliminating manual email-based queries (100% English-led role).
 
 <details>
 <summary><b>More achievements & business impact</b></summary>
 
+- **AI Voice Agents:** Built voice agents on `Retell` with `ElevenLabs` voices, orchestrated through `n8n` and connected to business tools for stock checks, calendar booking, and general inquiries.
 - **Process Automation:** Cut customs declaration errors to zero by replacing manual workflows with an automated `Power Query` ETL pipeline, which also made the task 90% faster.
 - **Cost Efficiency:** Achieved a 50% reduction in FOB costs for a key product line through data-driven competitor benchmarking and supplier development, while also improving quality.
 - **Supply Chain Optimization:** Identified critical bottlenecks in international logistics by merging multiple data sources and visualizing insights with `Power BI`, enabling real-time decision-making.
@@ -86,51 +87,23 @@ I am an Argentine **🤖 Data Analytics & AI Automation Engineer** and **🎓 B.
   </tr>
   <tr>
     <td><b>Ingestion &amp; ETL</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&amp;logo=python&amp;logoColor=ffdd54" alt="Python" />
-      <img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&amp;logo=pydantic&amp;logoColor=white" alt="Pydantic" />
-      <img src="https://img.shields.io/badge/Polars-%23CD792C.svg?style=for-the-badge&amp;logo=polars&amp;logoColor=white" alt="Polars" />
-      <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&amp;logo=pandas&amp;logoColor=white" alt="Pandas" />
-      <img src="https://img.shields.io/badge/Power_Query-F2C811?style=for-the-badge&amp;logo=powerbi&amp;logoColor=black" alt="Power Query" />
-    </td>
+    <td><img src="assets/tech-stack-ingestion-etl.svg" alt="Python, Pydantic, Polars, Pandas, Power Query" width="560" /></td>
   </tr>
   <tr>
     <td><b>BI &amp; Viz</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Seaborn-4479A1?style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="Seaborn" />
-      <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&amp;logo=matplotlib&amp;logoColor=black" alt="Matplotlib" />
-      <img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&amp;logo=powerbi&amp;logoColor=black" alt="Power Bi" />
-      <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&amp;logo=microsoftexcel&amp;logoColor=white" alt="Excel" />
-      <img src="https://img.shields.io/badge/DAX-%230176D3.svg?style=for-the-badge" alt="DAX" />
-    </td>
+    <td><img src="assets/tech-stack-bi-viz.svg" alt="Seaborn, Matplotlib, Power BI, Excel, DAX" width="560" /></td>
   </tr>
   <tr>
     <td><b>Storage &amp; Data Ops</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&amp;logo=supabase&amp;logoColor=white" alt="Supabase" />
-      <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&amp;logo=microsoft-sql-server&amp;logoColor=white" alt="SQL Server" />
-      <img src="https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&amp;logo=duckdb&amp;logoColor=black" alt="DuckDB" />
-    </td>
+    <td><img src="assets/tech-stack-storage-data-ops.svg" alt="Supabase, SQL Server, DuckDB" width="560" /></td>
   </tr>
   <tr>
     <td><b>Automation</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/n8n-E92063?style=for-the-badge&amp;logo=n8n&amp;logoColor=white" alt="n8n" />
-      <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&amp;logo=playwright&amp;logoColor=white" alt="Playwright" />
-      <img src="https://img.shields.io/badge/-Selenium-%43B02A?style=for-the-badge&amp;logo=Selenium&amp;logoColor=white" alt="Selenium" />
-      <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&amp;logo=github-actions&amp;logoColor=white" alt="GitHub Actions" />
-      <img src="https://img.shields.io/badge/Cloudflare_Workers-F38020?style=for-the-badge&amp;logo=cloudflareworkers&amp;logoColor=white" alt="Cloudflare Workers" />
-    </td>
+    <td><img src="assets/tech-stack-automation.svg" alt="n8n, Playwright, Selenium, GitHub Actions, Cloudflare Workers" width="560" /></td>
   </tr>
   <tr>
     <td><b>AI APIs</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Claude_API-CC9B7A?style=for-the-badge&amp;logo=anthropic&amp;logoColor=white" alt="Anthropic" />
-      <img src="https://img.shields.io/badge/ChatGPT_API-412991?style=for-the-badge&amp;logo=openai&amp;logoColor=white" alt="OpenAI" />
-      <img src="https://img.shields.io/badge/Gemini_API-8E75C2?style=for-the-badge&amp;logo=googlegemini&amp;logoColor=white" alt="Google Gemini" />
-      <img src="https://img.shields.io/badge/Retell_AI-1F2937?style=for-the-badge" alt="Retell AI" />
-      <img src="https://img.shields.io/badge/ElevenLabs-000000?style=for-the-badge&amp;logo=elevenlabs&amp;logoColor=white" alt="ElevenLabs" />
-    </td>
+    <td><img src="assets/tech-stack-ai-apis.svg" alt="Claude API, ChatGPT API, Gemini API, DeepSeek API, Retell AI, ElevenLabs" width="560" /></td>
   </tr>
 </table>
 
