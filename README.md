@@ -136,14 +136,9 @@ I am an Argentine **🤖 Data Analytics & AI Automation Engineer** and **🎓 B.
   <a href="https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2Fmauroemartinez%2FRPA-exchange-rate-scraping-automatic-mailing%2Freporte-ejecutivo%2FReporte%2520Ejecutivo.pptx"><b>▶️ View today's deck online</b></a>
 </p>
 
-<details>
-<summary><b>View pipeline architecture</b></summary>
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/mauroemartinez/RPA-exchange-rate-scraping-automatic-mailing/main/Assets/Architecture.png" alt="Architecture of the automated macroeconomic reporting pipeline" width="100%">
 </p>
-
-</details>
 
 ### [📊 LATAM Market Intelligence & Import Analytics](https://github.com/mauroemartinez/Latam_Imports_Market_Intelligence)
 *Market share analysis and KPI visualization for potential importers across Latin America. Designed to identify strategic partners and competitive landscape shifts.*
