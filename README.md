@@ -160,11 +160,11 @@ I am an Argentine **🤖 Data Analytics & AI Automation Engineer** and **🎓 B.
 </p>
 
 ### [👟 Sports Footwear Sales & Consumer Behavior](https://github.com/mauroemartinez/Sports_Footwear_Sales_and_Consumer_Behavior_Analysis-Technical_Challenge)
-*Technical challenge for a BI Developer role. Python ingests the Kaggle data automatically, advanced DAX adds trend analysis and moving averages, and field parameters let users switch chart axes on the fly.*
-* **Stack:** `Python`, `DAX`, `Star Schema`, `Time Intelligence`.
+*Technical challenge for a BI Developer role, rebuilt as a portfolio piece: a star schema over the public Kaggle dataset with a locale-proof Power Query pipeline, time intelligence with a 3-month moving average, field parameters to switch metrics and categories, and SVG charts drawn in DAX that put country flags on the axis and in custom tooltips.*
+* **Stack:** `Power BI`, `Power Query`, `DAX`, `SVG`, `Star Schema`, `Time Intelligence`.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mauroemartinez/Sports_Footwear_Sales_and_Consumer_Behavior_Analysis-Technical_Challenge/main/Other%20Files/Preview.gif" alt="Footwear Sales Preview" width=85%>
+  <img src="https://raw.githubusercontent.com/mauroemartinez/Sports_Footwear_Sales_and_Consumer_Behavior_Analysis-Technical_Challenge/main/Preview.gif" alt="Footwear Sales Preview" width=85%>
 </p>
 
 ### [🏮 HSK Chinese Proficiency Vocabulary Analysis](https://github.com/mauroemartinez/HSK_Vocabulary)
