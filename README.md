@@ -51,8 +51,8 @@ I am an Argentine **🤖 Data Analytics & AI Automation Engineer** and **🎓 B.
 * **EU Citizen:** Open to Remote/Relocation opportunities.
 
 <p align="center">
-  <img src="assets/career-timeline.svg?v=7" alt="Career timeline. 2018: International Trade Assistant at Industrias De Pascale. 2021: International Trade Analyst at Coteminas Argentina, starting in data analytics. 2022: Commercial BI Analyst at B&amp;B Consultora. 2023: founded GlobalAIze, with clients including Proa Latam. 2024: Data Analyst for Microsoft at Launch Consulting Group and B.A. in International Trade from UNLaM. 2026: International Trade &amp; AI Automation at SLS Global." width="100%" /><br>
-  <sub>Logos are trademarks of their respective owners, shown only to identify employers, clients and education. No endorsement is implied.</sub>
+  <img src="assets/career-timeline.svg?v=8" alt="Career timeline. 2018: International Trade Assistant at Industrias De Pascale. 2021: International Trade Analyst at Coteminas Argentina, starting in data analytics. 2022: Commercial BI Analyst at B&amp;B Consultora. 2023: founded GlobalAIze, with clients including Proa Latam. 2024: Data Analyst for Microsoft at Launch Consulting Group and B.A. in International Trade from UNLaM. 2026: International Trade &amp; AI Automation at SLS Global." width="100%" /><br>
+  <sub>All third-party logos and trademarks are the property of their respective owners and are shown for identification only. Their use does not imply affiliation or endorsement.</sub>
 </p>
 
 ---
@@ -72,7 +72,7 @@ I am an Argentine **🤖 Data Analytics & AI Automation Engineer** and **🎓 B.
 - **Process Automation:** Cut customs declaration errors to zero by replacing manual workflows with an automated `Power Query` ETL pipeline, which also made the task 90% faster.
 - **Cost Efficiency:** Achieved a 50% reduction in FOB costs for a key product line through data-driven competitor benchmarking and supplier development, while also improving quality.
 - **Supply Chain Optimization:** Identified critical bottlenecks in international logistics by merging multiple data sources and visualizing insights with `Power BI`, enabling real-time decision-making.
-- **Department Foundations:** Built the Analytics unit from scratch for an international trade consultancy, delivering client-facing services plus cross-functional support to Finance, C-Level, HR, International Trade, Logistics, and Sales.
+- **Department Foundations:** Built the Analytics unit from scratch for an international trade consultancy, delivering automated internal and client-facing BI reporting plus cross-functional analytics for Finance, C-Level, HR, International Trade, Logistics, and Sales.
 
 </details>
 
