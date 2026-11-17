@@ -80,32 +80,24 @@ I am an Argentine **🤖 Data Analytics & AI Automation Engineer** and **🎓 B.
 
 ## 🛠️ Tech Stack
 
+<details>
+<summary><b>Programming &amp; Automation</b></summary>
+
 <table>
-  <tr>
-    <th align="center">Category</th>
-    <th align="center">Tools</th>
-  </tr>
-  <tr>
-    <td><b>Ingestion &amp; ETL</b></td>
-    <td><img src="assets/tech-stack-ingestion-etl.svg" alt="Python, Pydantic, Polars, Pandas, Power Query" width="560" /></td>
-  </tr>
-  <tr>
-    <td><b>BI &amp; Viz</b></td>
-    <td><img src="assets/tech-stack-bi-viz.svg" alt="Seaborn, Matplotlib, Power BI, Excel, DAX" width="560" /></td>
-  </tr>
-  <tr>
-    <td><b>Storage &amp; Data Ops</b></td>
-    <td><img src="assets/tech-stack-storage-data-ops.svg" alt="Supabase, SQL Server, DuckDB" width="560" /></td>
-  </tr>
-  <tr>
-    <td><b>Automation</b></td>
-    <td><img src="assets/tech-stack-automation.svg" alt="n8n, Playwright, Selenium, GitHub Actions, Cloudflare Workers" width="560" /></td>
-  </tr>
-  <tr>
-    <td><b>AI APIs</b></td>
-    <td><img src="assets/tech-stack-ai-apis.svg" alt="Claude API, ChatGPT API, Gemini API, DeepSeek API, Retell AI, ElevenLabs" width="560" /></td>
-  </tr>
+  <tr><td><b>Ingestion &amp; ETL</b></td><td><img src="assets/tech-stack-ingestion-etl.svg" alt="Python, Pydantic, Polars, Pandas, Power Query" width="560" /></td></tr>
+  <tr><td><b>Automation</b></td><td><img src="assets/tech-stack-automation.svg" alt="n8n, Playwright, Selenium, GitHub Actions, Cloudflare Workers" width="560" /></td></tr>
+  <tr><td><b>AI APIs</b></td><td><img src="assets/tech-stack-ai-apis.svg" alt="Claude API, ChatGPT API, Gemini API, DeepSeek API, Retell AI, ElevenLabs" width="560" /></td></tr>
 </table>
+</details>
+
+<details>
+<summary><b>Data Analytics &amp; Power BI</b></summary>
+
+<table>
+  <tr><td><b>BI &amp; Viz</b></td><td><img src="assets/tech-stack-bi-viz.svg" alt="Seaborn, Matplotlib, Power BI, Excel, DAX" width="560" /></td></tr>
+  <tr><td><b>Storage &amp; Data Ops</b></td><td><img src="assets/tech-stack-storage-data-ops.svg" alt="Supabase, SQL Server, DuckDB" width="560" /></td></tr>
+</table>
+</details>
 
 ---
 
