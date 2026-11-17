@@ -167,6 +167,14 @@ I am an Argentine **🤖 Data Analytics & AI Automation Engineer** and **🎓 B.
   <img src="https://raw.githubusercontent.com/mauroemartinez/Sports_Footwear_Sales_and_Consumer_Behavior_Analysis-Technical_Challenge/main/Preview.gif" alt="Footwear Sales Preview" width=85%>
 </p>
 
+### [📉 Customer Churn & Behavior Analysis](https://github.com/mauroemartinez/Customer_Churn_and_Behavior_Analysis-Technical-Challenge)
+*Technical challenge for a BI / Data Analyst role, rebuilt as a portfolio piece: 10,900 customers across four source files, a star schema with a documented Power Query pipeline, churn rates that stay correct for any province, plan or campaign, and findings on plans, billing and retention campaigns (97.6% of churned customers were outside the campaign list).*
+* **Stack:** `Power BI`, `Power Query`, `DAX`, `Star Schema`, `PBIP`.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mauroemartinez/Customer_Churn_and_Behavior_Analysis-Technical-Challenge/main/Preview.gif" alt="Customer Churn Dashboard Preview" width=85%>
+</p>
+
 ### [🏮 HSK Chinese Proficiency Vocabulary Analysis](https://github.com/mauroemartinez/HSK_Vocabulary)
 *A statistical frequency analysis of HSK (1-6) vocabulary. Includes data normalization and visual insights to optimize learning paths based on character recurrence.*
 * **Stack:** `Python`, `Pandas`, `Matplotlib` (Chinese Font configuration).
