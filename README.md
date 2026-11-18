@@ -91,7 +91,7 @@ I am an Argentine **🤖 Data Analytics & AI Automation Engineer** and **🎓 B.
 ### 📊 Data Analytics & Power BI
 
 <table>
-  <tr><td><b>BI &amp; Viz</b></td><td><img src="assets/tech-stack-bi-viz.svg" alt="Seaborn, Matplotlib, Power BI, Excel, DAX, PBIP" width="560" /></td></tr>
+  <tr><td><b>BI &amp; Viz</b></td><td><img src="assets/tech-stack-bi-viz.svg" alt="Seaborn, Matplotlib, Power BI, Excel, DAX" width="560" /></td></tr>
   <tr><td><b>Storage &amp; Data Ops</b></td><td><img src="assets/tech-stack-storage-data-ops.svg" alt="Supabase, SQL Server, DuckDB" width="560" /></td></tr>
 </table>
 
@@ -120,6 +120,16 @@ I am an Argentine **🤖 Data Analytics & AI Automation Engineer** and **🎓 B.
   <img src="https://raw.githubusercontent.com/mauroemartinez/RPA-exchange-rate-scraping-automatic-mailing/main/Assets/Architecture.png" alt="Architecture of the automated macroeconomic reporting pipeline" width="100%">
 </p>
 
+#### [LLM Cost & Quality Bench](https://github.com/mauroemartinez/llm-cost-quality-bench)
+*Measures what an LLM costs and how often it is right on a B2B negotiation task, comparing one big agent with modular agents and validation guards, on 100% synthetic data.*
+* **Stack:** `Python`, `Pydantic`, `Polars`, `Matplotlib`, `httpx`, `pytest`, `GitHub Actions`.
+* **Open source:** Apache 2.0.
+
+#### [Softrade Batch](https://github.com/mauroemartinez/softrade-batch)
+*Claude Code skill that turns a plain-language request into batch downloads of international trade data from Softrade across 78 countries, with resumable runs and truncation checks.*
+* **Stack:** `Claude Code`, `Claude in Chrome`, `Python`, `Excel`.
+* **Open source:** MIT.
+
 ### 📊 Data Analytics & Power BI
 
 #### [💼 Professional Data Portfolio (Slide Deck)](https://docs.google.com/presentation/d/1CYxJus8K5OhROraqleF-ntOejzjPTLRBven9R5F1C0o/edit?usp=sharing)
@@ -132,7 +142,7 @@ I am an Argentine **🤖 Data Analytics & AI Automation Engineer** and **🎓 B.
 </p>
 
 #### [📊 LATAM Market Intelligence & Import Analytics](https://github.com/mauroemartinez/Latam_Imports_Market_Intelligence)
-*Market-share and KPI analysis to help importers identify potential partners across Latin America.*
+*Market share analysis and KPI visualization for importers across Latin America, designed to identify strategic partners.*
 * **Stack:** `Power BI`, `DAX`, `Power Query`, `Data Modeling`.
 
 <p align="center">
@@ -160,18 +170,10 @@ I am an Argentine **🤖 Data Analytics & AI Automation Engineer** and **🎓 B.
 
 #### [📉 Customer Churn & Behavior Analysis](https://github.com/mauroemartinez/Customer_Churn_and_Behavior_Analysis-Technical-Challenge)
 *Technical challenge for a BI / Data Analyst role, rebuilt as a portfolio piece: 10,900 customers across four source files, a star schema with a documented Power Query pipeline, churn rates that stay correct for any province, plan or campaign, and findings on plans, billing and retention campaigns (97.6% of churned customers were outside the campaign list).*
-* **Stack:** `Power BI`, `Power Query`, `DAX`, `Star Schema`, `PBIP`.
+* **Stack:** `Power BI`, `Power Query`, `DAX`, `Star Schema`.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/mauroemartinez/Customer_Churn_and_Behavior_Analysis-Technical-Challenge/main/Preview.gif" alt="Customer Churn Dashboard Preview" width=85%>
-</p>
-
-#### [🏮 HSK Chinese Proficiency Vocabulary Analysis](https://github.com/mauroemartinez/HSK_Vocabulary)
-*A statistical frequency analysis of HSK (1-6) vocabulary. Includes data normalization and visual insights to optimize learning paths based on character recurrence.*
-* **Stack:** `Python`, `Pandas`, `Matplotlib` (Chinese Font configuration).
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mauroemartinez/HSK_Vocabulary/main/Top%2025%20Hanzi%20by%20Frequency.jpg" alt="HSK Analysis" width=85%>
 </p>
 
 </details>
