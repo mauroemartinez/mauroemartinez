@@ -62,7 +62,7 @@ I am an Argentine **🤖 Data Analytics & AI Automation Engineer** and **🎓 B.
 - **Multi-Agent AI Sourcing SaaS:** Built an internal sourcing system and commercialized it as a SaaS offering operating **24/7**. Its 10+ AI agents find and negotiate with Chinese suppliers, support product classification through RAG, and generate interactive landed-cost quotations, while a web app and dashboard track key metrics, including costs. Since June 2026 it has contacted **about 570 suppliers and secured about 220 quotations a month**, at a median price **11% below the supplier's own listed price**. AI writes **99.9%** of the negotiation messages, 71% of them outside Argentine business hours while China is at work, with **AI costs under USD 0.10 per quotation**: the work of more than two people for under 2% of the cost of one entry-level employee in Argentina (estimate).
 - **Mercado Libre Customer Q&A Bot:** Answers buyer questions **24/7**, checking every five minutes, with **97% answered without human intervention** and a median response time of **10 minutes**. 51% of questions arrive at night or on weekends and still get answered. It costs **95.8% less than the previous tool**, under USD 0.50 a month in AI, and a dashboard tracks its key metrics, including costs.
 - **AI Cost Optimization:** Cut the monthly AI spend of the international negotiation agents by **96%** by optimizing model usage, splitting agents into modules and adding validation controls, while keeping **95%+ hand-reviewed accuracy** and fixing errors the previous setup made in production. A simple, customizable presentation builder in the web app also replaced AI-generated presentations, cutting that cost to almost zero.
-- **AI-Powered Macroeconomic Reporting:** Built a **fully automated, cloud-hosted pipeline** tracking **FX rates, country risk, interest rates, inflation, monetary aggregates, public and private debt, and Bitcoin**. Every business day it emails seven charts with AI conclusions and a nine-slide executive deck, **with no human intervention and zero running cost**: Python computes the indicators; Gemini writes the conclusions. A Cloudflare Worker triggers each run on GitHub Actions, both on free plans, while automated validation, duplicate-run protection, failure alerts, and 260+ offline tests keep delivery reliable.
+- **AI-Powered Macroeconomic Reporting:** Built a **fully automated cloud pipeline** tracking **FX rates, country risk, interest rates, inflation, debt, and Bitcoin**, then emailing seven charts with AI-written insights and a nine-slide executive deck. Python calculates the indicators; Gemini writes the analysis.
 - **Self-Service Analytics for Microsoft:** Reduced operational workload for Microsoft's global sales team by deploying a self-service `Power BI` solution, eliminating manual email-based queries (100% English-led role).
 
 <details>
@@ -91,7 +91,7 @@ I am an Argentine **🤖 Data Analytics & AI Automation Engineer** and **🎓 B.
 ### 📊 Data Analytics & Power BI
 
 <table>
-  <tr><td><b>BI &amp; Viz</b></td><td><img src="assets/tech-stack-bi-viz.svg" alt="Seaborn, Matplotlib, Power BI, Excel, DAX" width="560" /></td></tr>
+  <tr><td><b>BI &amp; Viz</b></td><td><img src="assets/tech-stack-bi-viz.svg" alt="Seaborn, Matplotlib, Power BI, Excel, DAX, PBIP" width="560" /></td></tr>
   <tr><td><b>Storage &amp; Data Ops</b></td><td><img src="assets/tech-stack-storage-data-ops.svg" alt="Supabase, SQL Server, DuckDB" width="560" /></td></tr>
 </table>
 
@@ -99,7 +99,30 @@ I am an Argentine **🤖 Data Analytics & AI Automation Engineer** and **🎓 B.
 
 ## 🚀 Featured Projects
 
-### [💼 Professional Data Portfolio (Slide Deck)](https://docs.google.com/presentation/d/1CYxJus8K5OhROraqleF-ntOejzjPTLRBven9R5F1C0o/edit?usp=sharing)
+### 🤖 AI & Automation
+
+#### [AI-Powered Argentine Macroeconomic Reporting & Mailing Automation](https://github.com/mauroemartinez/RPA-exchange-rate-scraping-automatic-mailing)
+*Automates Argentina's macro reporting across FX, country risk, interest rates, inflation, debt, and Bitcoin, then emails charts, AI-written insights, and an executive deck.*
+
+* **Reliability:** Input validation, duplicate-run protection, and failure alerts; 260+ offline tests run in CI.
+* **Stack:** `Python`, `Pandas`, `Playwright`, `httpx`, `Pydantic`, `Supabase`, `Gemini API`, `Jinja2`, `Matplotlib`, `Seaborn`, `python-pptx`, `Cloudflare Workers`, `GitHub Actions`, `pytest`.
+* **Open source:** Apache 2.0.
+<p align="center">
+  <a href="https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2Fmauroemartinez%2FRPA-exchange-rate-scraping-automatic-mailing%2Freporte-ejecutivo%2FReporte%2520Ejecutivo.pptx">
+    <img src="https://raw.githubusercontent.com/mauroemartinez/RPA-exchange-rate-scraping-automatic-mailing/main/Assets/Presentacion.jpg" alt="Preview of the macroeconomic executive deck" width="100%">
+  </a>
+</p>
+<p align="center">
+  <a href="https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2Fmauroemartinez%2FRPA-exchange-rate-scraping-automatic-mailing%2Freporte-ejecutivo%2FReporte%2520Ejecutivo.pptx"><b>▶️ View the latest deck online</b></a>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mauroemartinez/RPA-exchange-rate-scraping-automatic-mailing/main/Assets/Architecture.png" alt="Architecture of the automated macroeconomic reporting pipeline" width="100%">
+</p>
+
+### 📊 Data Analytics & Power BI
+
+#### [💼 Professional Data Portfolio (Slide Deck)](https://docs.google.com/presentation/d/1CYxJus8K5OhROraqleF-ntOejzjPTLRBven9R5F1C0o/edit?usp=sharing)
 *Selected projects showing my analytical approach, business impact, and data visualization.*
 
 <p align="center">
@@ -108,28 +131,8 @@ I am an Argentine **🤖 Data Analytics & AI Automation Engineer** and **🎓 B.
   </a>
 </p>
 
-### [🤖 AI-Powered Argentine Macroeconomic Reporting & Mailing Automation](https://github.com/mauroemartinez/RPA-exchange-rate-scraping-automatic-mailing)
-*From market data to executive reporting, without manual compilation. Tracks Argentine FX rates, country risk, BCRA and Federal Reserve interest rates, inflation, monetary aggregates, public and private debt, and Bitcoin. Every business day at 16:00 Argentina time, the pipeline validates and stores the data in Supabase and emails seven charts with AI conclusions plus a nine-slide PowerPoint deck, with no human intervention and zero running cost. Python computes the figures; Gemini writes the conclusions. The latest charts and deck are published automatically to the repository.*
-
-* **Reliability:** Concurrent ingestion, schema validation, duplicate-run protection, AI model failover, failure alerts, and a daily completeness check. 260+ offline tests run in CI.
-* **Stack:** `Python`, `Pandas`, `Playwright`, `httpx`, `Pydantic`, `Supabase`, `Gemini API`, `Jinja2`, `Matplotlib`, `Seaborn`, `python-pptx`, `Cloudflare Workers`, `GitHub Actions`, `pytest`.
-* **Open source (Apache 2.0):** The full source code is public, so anyone can replicate the pipeline with their own keys (see `.env.example`) on free plans.
-<p align="center">
-  <a href="https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2Fmauroemartinez%2FRPA-exchange-rate-scraping-automatic-mailing%2Freporte-ejecutivo%2FReporte%2520Ejecutivo.pptx">
-    <img src="https://raw.githubusercontent.com/mauroemartinez/RPA-exchange-rate-scraping-automatic-mailing/main/Assets/Presentacion.jpg" alt="Preview of the nine-slide daily macroeconomic executive deck" width="100%">
-  </a>
-</p>
-<p align="center">
-  <i>Daily executive deck, built and published automatically by the pipeline.</i><br>
-  <a href="https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2Fmauroemartinez%2FRPA-exchange-rate-scraping-automatic-mailing%2Freporte-ejecutivo%2FReporte%2520Ejecutivo.pptx"><b>▶️ View today's deck online</b></a>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mauroemartinez/RPA-exchange-rate-scraping-automatic-mailing/main/Assets/Architecture.png" alt="Architecture of the automated macroeconomic reporting pipeline" width="100%">
-</p>
-
-### [📊 LATAM Market Intelligence & Import Analytics](https://github.com/mauroemartinez/Latam_Imports_Market_Intelligence)
-*Market share analysis and KPI visualization for potential importers across Latin America. Designed to identify strategic partners and competitive landscape shifts.*
+#### [📊 LATAM Market Intelligence & Import Analytics](https://github.com/mauroemartinez/Latam_Imports_Market_Intelligence)
+*Market-share and KPI analysis to help importers identify potential partners across Latin America.*
 * **Stack:** `Power BI`, `DAX`, `Power Query`, `Data Modeling`.
 
 <p align="center">
@@ -139,15 +142,15 @@ I am an Argentine **🤖 Data Analytics & AI Automation Engineer** and **🎓 B.
 <details>
 <summary><b>More projects</b></summary>
 
-### [🛡️ COVID-19 PPE Import Market Study](https://github.com/mauroemartinez/Importaciones_EPP_COVID-19_Pre_vs_Postpandemia)
-*A comprehensive market study of Personal Protective Equipment (PPE) imports in Argentina, comparing pre-pandemic (2018-2019) vs. COVID-19 crisis period (2020-2021).*
+#### [🛡️ COVID-19 PPE Import Market Study](https://github.com/mauroemartinez/Importaciones_EPP_COVID-19_Pre_vs_Postpandemia)
+*Compares Argentina's PPE imports in 2018 to 2019 and during the COVID-19 crisis in 2020 to 2021, showing how the market changed.*
 * **Stack:** `Power BI`, `Power Query`, `International Trade Data`.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/mauroemartinez/Importaciones_EPP_COVID-19_Pre_vs_Postpandemia/main/Preview.gif" alt="PPE Dashboard Preview" width=85%>
 </p>
 
-### [👟 Sports Footwear Sales & Consumer Behavior](https://github.com/mauroemartinez/Sports_Footwear_Sales_and_Consumer_Behavior_Analysis-Technical_Challenge)
+#### [👟 Sports Footwear Sales & Consumer Behavior](https://github.com/mauroemartinez/Sports_Footwear_Sales_and_Consumer_Behavior_Analysis-Technical_Challenge)
 *Technical challenge for a BI Developer role, rebuilt as a portfolio piece: a star schema over the public Kaggle dataset with a locale-proof Power Query pipeline, time intelligence with a 3-month moving average, field parameters to switch metrics and categories, and SVG charts drawn in DAX that put country flags on the axis and in custom tooltips.*
 * **Stack:** `Power BI`, `Power Query`, `DAX`, `SVG`, `Star Schema`, `Time Intelligence`.
 
@@ -155,7 +158,7 @@ I am an Argentine **🤖 Data Analytics & AI Automation Engineer** and **🎓 B.
   <img src="https://raw.githubusercontent.com/mauroemartinez/Sports_Footwear_Sales_and_Consumer_Behavior_Analysis-Technical_Challenge/main/Preview.gif" alt="Footwear Sales Preview" width=85%>
 </p>
 
-### [📉 Customer Churn & Behavior Analysis](https://github.com/mauroemartinez/Customer_Churn_and_Behavior_Analysis-Technical-Challenge)
+#### [📉 Customer Churn & Behavior Analysis](https://github.com/mauroemartinez/Customer_Churn_and_Behavior_Analysis-Technical-Challenge)
 *Technical challenge for a BI / Data Analyst role, rebuilt as a portfolio piece: 10,900 customers across four source files, a star schema with a documented Power Query pipeline, churn rates that stay correct for any province, plan or campaign, and findings on plans, billing and retention campaigns (97.6% of churned customers were outside the campaign list).*
 * **Stack:** `Power BI`, `Power Query`, `DAX`, `Star Schema`, `PBIP`.
 
@@ -163,7 +166,7 @@ I am an Argentine **🤖 Data Analytics & AI Automation Engineer** and **🎓 B.
   <img src="https://raw.githubusercontent.com/mauroemartinez/Customer_Churn_and_Behavior_Analysis-Technical-Challenge/main/Preview.gif" alt="Customer Churn Dashboard Preview" width=85%>
 </p>
 
-### [🏮 HSK Chinese Proficiency Vocabulary Analysis](https://github.com/mauroemartinez/HSK_Vocabulary)
+#### [🏮 HSK Chinese Proficiency Vocabulary Analysis](https://github.com/mauroemartinez/HSK_Vocabulary)
 *A statistical frequency analysis of HSK (1-6) vocabulary. Includes data normalization and visual insights to optimize learning paths based on character recurrence.*
 * **Stack:** `Python`, `Pandas`, `Matplotlib` (Chinese Font configuration).
 
