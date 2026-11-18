@@ -102,11 +102,10 @@ I am an Argentine **🤖 Data Analytics & AI Automation Engineer** and **🎓 B.
 ### 🤖 AI & Automation
 
 #### [AI-Powered Argentine Macroeconomic Reporting & Mailing Automation](https://github.com/mauroemartinez/RPA-exchange-rate-scraping-automatic-mailing)
-*Automates Argentina's macro reporting across FX, country risk, interest rates, inflation, debt, and Bitcoin, then emails charts, AI-written insights, and an executive deck.*
+*Automates Argentina's macro reporting (FX, country risk, interest rates, inflation, debt and Bitcoin) and emails charts, AI-written insights and an executive deck, with input validation, failure alerts and 260+ automated tests. Open source (Apache 2.0).*
 
-* **Reliability:** Input validation, duplicate-run protection, and failure alerts; 260+ offline tests run in CI.
 * **Stack:** `Python`, `Pandas`, `Playwright`, `httpx`, `Pydantic`, `Supabase`, `Gemini API`, `Jinja2`, `Matplotlib`, `Seaborn`, `python-pptx`, `Cloudflare Workers`, `GitHub Actions`, `pytest`.
-* **Open source:** Apache 2.0.
+
 <p align="center">
   <a href="https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2Fmauroemartinez%2FRPA-exchange-rate-scraping-automatic-mailing%2Freporte-ejecutivo%2FReporte%2520Ejecutivo.pptx">
     <img src="https://raw.githubusercontent.com/mauroemartinez/RPA-exchange-rate-scraping-automatic-mailing/main/Assets/Presentacion.jpg" alt="Preview of the macroeconomic executive deck" width="100%">
@@ -120,26 +119,32 @@ I am an Argentine **🤖 Data Analytics & AI Automation Engineer** and **🎓 B.
   <img src="https://raw.githubusercontent.com/mauroemartinez/RPA-exchange-rate-scraping-automatic-mailing/main/Assets/Architecture.png" alt="Architecture of the automated macroeconomic reporting pipeline" width="100%">
 </p>
 
-#### [LLM Cost & Quality Bench](https://github.com/mauroemartinez/llm-cost-quality-bench)
-*Measures what an LLM costs and how often it is right on a B2B negotiation task, comparing one big agent with modular agents and validation guards, on 100% synthetic data.*
-* **Stack:** `Python`, `Pydantic`, `Polars`, `Matplotlib`, `httpx`, `pytest`, `GitHub Actions`.
-* **Open source:** Apache 2.0.
-
-#### [Softrade Batch](https://github.com/mauroemartinez/softrade-batch)
-*Claude Code skill that turns a plain-language request into batch downloads of international trade data from Softrade across 78 countries, with resumable runs and truncation checks.*
-* **Stack:** `Claude Code`, `Claude in Chrome`, `Python`, `Excel`.
-* **Open source:** MIT.
-
-### 📊 Data Analytics & Power BI
-
-#### [💼 Professional Data Portfolio (Slide Deck)](https://docs.google.com/presentation/d/1CYxJus8K5OhROraqleF-ntOejzjPTLRBven9R5F1C0o/edit?usp=sharing)
-*Selected projects showing my analytical approach, business impact, and data visualization.*
+#### [Argentine Import Data Toolkit (ARCA)](https://github.com/mauroemartinez/analisis_datos_comex_arca)
+*Downloads every monthly import file published by ARCA into a single Parquet history and queries it by importer, NCM code or free SQL, with tutorial notebooks and a serverless web explorer. Open source (MIT).*
+* **Stack:** `Python`, `DuckDB`, `Polars`, `Pandas`, `Parquet`, `Plotly`, `Jupyter`.
 
 <p align="center">
-  <a href="https://docs.google.com/presentation/d/1CYxJus8K5OhROraqleF-ntOejzjPTLRBven9R5F1C0o/edit?usp=sharing">
-    <img src="https://img.shields.io/badge/View_Portfolio_Deck-Orange?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white" alt="View Portfolio">
-  </a>
+  <img src="https://raw.githubusercontent.com/mauroemartinez/analisis_datos_comex_arca/main/assets/explorer-metricas-evolucion.png" alt="ARCA import data explorer: monthly metrics" width=85%>
 </p>
+
+<details>
+<summary><b>More AI & automation projects</b></summary>
+
+#### [LLM Cost & Quality Bench](https://github.com/mauroemartinez/llm-cost-quality-bench)
+*Measures what an LLM costs and how often it is right on a B2B negotiation task, comparing one big agent with modular agents and validation guards, on 100% synthetic data. Open source (Apache 2.0).*
+* **Stack:** `Python`, `Pydantic`, `Polars`, `Matplotlib`, `httpx`, `pytest`, `GitHub Actions`.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mauroemartinez/llm-cost-quality-bench/main/docs/img/film-en.gif" alt="The benchmark in 38 seconds: one big prompt against a modular design with guards, cost against quality" width=85%>
+</p>
+
+#### [Softrade Batch](https://github.com/mauroemartinez/softrade-batch)
+*Claude Code skill that turns a plain-language request into batch downloads of international trade data from Softrade across 78 countries, with resumable runs and truncation checks. Open source (MIT).*
+* **Stack:** `Claude Code`, `Claude in Chrome`, `Python`, `Excel`.
+
+</details>
+
+### 📊 Data Analytics & Power BI
 
 #### [📊 LATAM Market Intelligence & Import Analytics](https://github.com/mauroemartinez/Latam_Imports_Market_Intelligence)
 *Market share analysis and KPI visualization for importers across Latin America, designed to identify strategic partners.*
@@ -150,7 +155,7 @@ I am an Argentine **🤖 Data Analytics & AI Automation Engineer** and **🎓 B.
 </p>
 
 <details>
-<summary><b>More projects</b></summary>
+<summary><b>More data analytics projects</b></summary>
 
 #### [🛡️ COVID-19 PPE Import Market Study](https://github.com/mauroemartinez/Importaciones_EPP_COVID-19_Pre_vs_Postpandemia)
 *Compares Argentina's PPE imports in 2018 to 2019 and during the COVID-19 crisis in 2020 to 2021, showing how the market changed.*
@@ -161,7 +166,7 @@ I am an Argentine **🤖 Data Analytics & AI Automation Engineer** and **🎓 B.
 </p>
 
 #### [👟 Sports Footwear Sales & Consumer Behavior](https://github.com/mauroemartinez/Sports_Footwear_Sales_and_Consumer_Behavior_Analysis-Technical_Challenge)
-*Technical challenge for a BI Developer role, rebuilt as a portfolio piece: a star schema over the public Kaggle dataset with a locale-proof Power Query pipeline, time intelligence with a 3-month moving average, field parameters to switch metrics and categories, and SVG charts drawn in DAX that put country flags on the axis and in custom tooltips.*
+*Power BI analysis of 30,000 orders from a public Kaggle dataset, with a star schema, time intelligence, field parameters and SVG charts drawn in DAX that show each country's flag.*
 * **Stack:** `Power BI`, `Power Query`, `DAX`, `SVG`, `Star Schema`, `Time Intelligence`.
 
 <p align="center">
@@ -169,7 +174,7 @@ I am an Argentine **🤖 Data Analytics & AI Automation Engineer** and **🎓 B.
 </p>
 
 #### [📉 Customer Churn & Behavior Analysis](https://github.com/mauroemartinez/Customer_Churn_and_Behavior_Analysis-Technical-Challenge)
-*Technical challenge for a BI / Data Analyst role, rebuilt as a portfolio piece: 10,900 customers across four source files, a star schema with a documented Power Query pipeline, churn rates that stay correct for any province, plan or campaign, and findings on plans, billing and retention campaigns (97.6% of churned customers were outside the campaign list).*
+*Churn analysis of 10,900 customers from four source files, with churn rates that hold for any province, plan or campaign, and one clear finding: 97.6% of the customers who left were not in the retention campaign list.*
 * **Stack:** `Power BI`, `Power Query`, `DAX`, `Star Schema`.
 
 <p align="center">

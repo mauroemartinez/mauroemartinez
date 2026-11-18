@@ -16,6 +16,8 @@
 !assets/linkedin-banner.svg
 !assets/career-timeline.svg
 !assets/tech-stack-*.svg
+!assets/lang/
+!assets/lang/*.svg
 !scripts/
 !scripts/update_activity.py
 !.github/
