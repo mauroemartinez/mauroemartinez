@@ -104,7 +104,8 @@ I am an Argentine **🤖 Data Analytics & AI Automation Engineer** and **🎓 B.
 #### [AI-Powered Argentine Macroeconomic Reporting & Mailing Automation](https://github.com/mauroemartinez/RPA-exchange-rate-scraping-automatic-mailing)
 *Automates Argentina's macro reporting (FX, country risk, interest rates, inflation, debt and Bitcoin) and emails charts, AI-written insights and an executive deck, with input validation, failure alerts and 260+ automated tests. Open source (Apache 2.0).*
 
-* **Stack:** `Python`, `Pandas`, `Playwright`, `httpx`, `Pydantic`, `Supabase`, `Gemini API`, `Jinja2`, `Matplotlib`, `Seaborn`, `python-pptx`, `Cloudflare Workers`, `GitHub Actions`, `pytest`.
+* **Stack:** `Python`, `Pandas`, `Playwright`, `httpx`, `Pydantic`, `SQLAlchemy`, `Supabase`, `Gemini API`, `Jinja2`, `Matplotlib`, `Seaborn`, `python-pptx`, `Streamlit`, `Plotly`, `Cloudflare Workers`, `GitHub Actions`, `Streamlit Community Cloud`, `pytest`.
+* **Live dashboard:** [macro-argentina-globalaize.streamlit.app](https://macro-argentina-globalaize.streamlit.app/)
 
 <p align="center">
   <a href="https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2Fmauroemartinez%2FRPA-exchange-rate-scraping-automatic-mailing%2Freporte-ejecutivo%2FReporte%2520Ejecutivo.pptx">
@@ -119,23 +120,24 @@ I am an Argentine **🤖 Data Analytics & AI Automation Engineer** and **🎓 B.
   <img src="https://raw.githubusercontent.com/mauroemartinez/RPA-exchange-rate-scraping-automatic-mailing/main/Assets/Architecture.png" alt="Architecture of the automated macroeconomic reporting pipeline" width="100%">
 </p>
 
-#### [Argentine Import Data Toolkit (ARCA)](https://github.com/mauroemartinez/analisis_datos_comex_arca)
-*Downloads every monthly import file published by ARCA into a single Parquet history and queries it by importer, NCM code or free SQL, with tutorial notebooks and a serverless web explorer. Open source (MIT).*
-* **Stack:** `Python`, `DuckDB`, `Polars`, `Pandas`, `Parquet`, `Plotly`, `Jupyter`.
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mauroemartinez/analisis_datos_comex_arca/main/assets/explorer-metricas-evolucion.png" alt="ARCA import data explorer: monthly metrics" width=85%>
-</p>
-
-<details>
-<summary><b>More AI & automation projects</b></summary>
-
 #### [LLM Cost & Quality Bench](https://github.com/mauroemartinez/llm-cost-quality-bench)
 *Measures what an LLM costs and how often it is right on a B2B negotiation task, comparing one big agent with modular agents and validation guards, on 100% synthetic data. Open source (Apache 2.0).*
 * **Stack:** `Python`, `Pydantic`, `Polars`, `Matplotlib`, `httpx`, `pytest`, `GitHub Actions`.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mauroemartinez/llm-cost-quality-bench/main/docs/img/film-en.gif" alt="The benchmark in 38 seconds: one big prompt against a modular design with guards, cost against quality" width=85%>
+  <img src="https://raw.githubusercontent.com/mauroemartinez/llm-cost-quality-bench/main/docs/img/film-en-v2.gif" alt="The benchmark in 38 seconds: one big prompt against a modular design with guards, cost against quality" width=85%>
+</p>
+
+<details>
+<summary><b>More AI & automation projects</b></summary>
+
+#### [Argentine Import Data Toolkit (ARCA)](https://github.com/mauroemartinez/analisis_datos_comex_arca)
+*Downloads every monthly import file published by ARCA into a single Parquet history and queries it by importer, NCM code or free SQL, with tutorial notebooks and a serverless web explorer. Open source (MIT).*
+* **Stack:** `Python`, `DuckDB`, `DuckDB-WASM`, `Polars`, `Pandas`, `PyArrow`, `Parquet`, `Matplotlib`, `Jupyter`, `GitHub Pages`, `GitHub Actions`.
+* **Try it online:** [mauroemartinez.github.io/analisis_datos_comex_arca/?demo=1](https://mauroemartinez.github.io/analisis_datos_comex_arca/?demo=1)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mauroemartinez/analisis_datos_comex_arca/main/assets/explorer-metricas-evolucion.png" alt="ARCA import data explorer: monthly metrics" width=85%>
 </p>
 
 #### [Softrade Batch](https://github.com/mauroemartinez/softrade-batch)
@@ -148,7 +150,7 @@ I am an Argentine **🤖 Data Analytics & AI Automation Engineer** and **🎓 B.
 
 #### [📊 LATAM Market Intelligence & Import Analytics](https://github.com/mauroemartinez/Latam_Imports_Market_Intelligence)
 *Market share analysis and KPI visualization for importers across Latin America, designed to identify strategic partners.*
-* **Stack:** `Power BI`, `DAX`, `Power Query`, `Data Modeling`.
+* **Stack:** `Power BI`, `DAX`, `Power Query`, `PBIP`, `Data Modeling`, `Python (pandas)`.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/mauroemartinez/Latam_Imports_Market_Intelligence/main/Preview.gif" alt="LATAM Dashboard Demo" width=85%>
@@ -167,7 +169,7 @@ I am an Argentine **🤖 Data Analytics & AI Automation Engineer** and **🎓 B.
 
 #### [👟 Sports Footwear Sales & Consumer Behavior](https://github.com/mauroemartinez/Sports_Footwear_Sales_and_Consumer_Behavior_Analysis-Technical_Challenge)
 *Power BI analysis of 30,000 orders from a public Kaggle dataset, with a star schema, time intelligence, field parameters and SVG charts drawn in DAX that show each country's flag.*
-* **Stack:** `Power BI`, `Power Query`, `DAX`, `SVG`, `Star Schema`, `Time Intelligence`.
+* **Stack:** `Power BI`, `Power Query`, `DAX`, `SVG`, `Star Schema`, `Time Intelligence`, `Python`.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/mauroemartinez/Sports_Footwear_Sales_and_Consumer_Behavior_Analysis-Technical_Challenge/main/Preview.gif" alt="Footwear Sales Preview" width=85%>
