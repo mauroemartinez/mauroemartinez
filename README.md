@@ -151,7 +151,7 @@ I am an Argentine **🤖 Data Analytics & AI Automation Engineer** and **🎓 B.
 * **Stack:** `Power BI`, `DAX`, `Power Query`, `Data Modeling`.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mauroemartinez/Latam_Imports_Market_Intelligence/main/Gif%20Tutorial.gif" alt="LATAM Dashboard Demo" width=85%>
+  <img src="https://raw.githubusercontent.com/mauroemartinez/Latam_Imports_Market_Intelligence/main/Preview.gif" alt="LATAM Dashboard Demo" width=85%>
 </p>
 
 <details>
