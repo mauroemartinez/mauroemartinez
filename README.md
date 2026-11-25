@@ -105,7 +105,6 @@ I am an Argentine **🤖 Data Analytics & AI Automation Engineer** and **🎓 B.
 *Automates Argentina's macro reporting (FX, country risk, interest rates, inflation, debt and Bitcoin) and emails charts, AI-written insights and an executive deck, with input validation, failure alerts and 260+ automated tests. Open source (Apache 2.0).*
 
 * **Stack:** `Python`, `Pandas`, `Playwright`, `httpx`, `Pydantic`, `SQLAlchemy`, `Supabase`, `Gemini API`, `Jinja2`, `Matplotlib`, `Seaborn`, `python-pptx`, `Streamlit`, `Plotly`, `Cloudflare Workers`, `GitHub Actions`, `Streamlit Community Cloud`, `pytest`.
-* **Live dashboard:** [macro-argentina-globalaize.streamlit.app](https://macro-argentina-globalaize.streamlit.app/)
 
 <p align="center">
   <a href="https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2Fmauroemartinez%2FRPA-exchange-rate-scraping-automatic-mailing%2Freporte-ejecutivo%2FReporte%2520Ejecutivo.pptx">
@@ -114,6 +113,8 @@ I am an Argentine **🤖 Data Analytics & AI Automation Engineer** and **🎓 B.
 </p>
 <p align="center">
   <a href="https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2Fmauroemartinez%2FRPA-exchange-rate-scraping-automatic-mailing%2Freporte-ejecutivo%2FReporte%2520Ejecutivo.pptx"><b>▶️ View the latest deck online</b></a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://macro-argentina-globalaize.streamlit.app/?lang=en"><b>📊 Explore the interactive version</b></a>
 </p>
 
 <p align="center">
