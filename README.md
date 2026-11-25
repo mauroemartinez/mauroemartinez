@@ -164,7 +164,7 @@ I am an Argentine **🤖 Data Analytics & AI Automation Engineer** and **🎓 B.
 * **Stack:** `Power BI`, `Power Query`, `International Trade Data`.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mauroemartinez/Importaciones_EPP_COVID-19_Pre_vs_Postpandemia/main/Preview.gif" alt="PPE Dashboard Preview" width=85%>
+  <img src="https://raw.githubusercontent.com/mauroemartinez/Importaciones_EPP_COVID-19_Pre_vs_Postpandemia/main/Preview-v2.gif" alt="PPE Dashboard Preview" width=85%>
 </p>
 
 #### [👟 Sports Footwear Sales & Consumer Behavior](https://github.com/mauroemartinez/Sports_Footwear_Sales_and_Consumer_Behavior_Analysis-Technical_Challenge)
